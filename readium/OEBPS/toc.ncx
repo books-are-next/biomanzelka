@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:a4140d12-912f-4474-b8ee-559be423b254" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Biomanželka</text>
+  </docTitle>
+  <docAuthor>
+    <text>Michal Viewegh</text>
+  </docAuthor>
+  <navMap>
+    <navPoint id="navpoint1" playOrder="1">
+      <navLabel>
+        <text>I</text>
+      </navLabel>
+      <content src="Text/biomanzelka_007.xhtml#toc_marker-1"/>
+    </navPoint>
+    <navPoint id="navpoint2" playOrder="2">
+      <navLabel>
+        <text>II</text>
+      </navLabel>
+      <content src="Text/biomanzelka_008.xhtml#toc_marker-2"/>
+    </navPoint>
+    <navPoint id="navpoint3" playOrder="3">
+      <navLabel>
+        <text>III</text>
+      </navLabel>
+      <content src="Text/biomanzelka_009.xhtml#toc_marker-3"/>
+    </navPoint>
+    <navPoint id="navpoint4" playOrder="4">
+      <navLabel>
+        <text>IV</text>
+      </navLabel>
+      <content src="Text/biomanzelka_010.xhtml#toc_marker-4"/>
+    </navPoint>
+    <navPoint id="navpoint5" playOrder="5">
+      <navLabel>
+        <text>V</text>
+      </navLabel>
+      <content src="Text/biomanzelka_011.xhtml#toc_marker-5"/>
+    </navPoint>
+    <navPoint id="navpoint6" playOrder="6">
+      <navLabel>
+        <text>VI</text>
+      </navLabel>
+      <content src="Text/biomanzelka_012.xhtml#toc_marker-6"/>
+    </navPoint>
+    <navPoint id="navpoint7" playOrder="7">
+      <navLabel>
+        <text>VII</text>
+      </navLabel>
+      <content src="Text/biomanzelka_013.xhtml#toc_marker-7"/>
+    </navPoint>
+    <navPoint id="navpoint8" playOrder="8">
+      <navLabel>
+        <text>VIII</text>
+      </navLabel>
+      <content src="Text/biomanzelka_014.xhtml#toc_marker-8"/>
+    </navPoint>
+    <navPoint id="navpoint9" playOrder="9">
+      <navLabel>
+        <text>IX</text>
+      </navLabel>
+      <content src="Text/biomanzelka_015.xhtml#toc_marker-9"/>
+    </navPoint>
+    <navPoint id="navpoint10" playOrder="10">
+      <navLabel>
+        <text>X</text>
+      </navLabel>
+      <content src="Text/biomanzelka_016.xhtml#toc_marker-10"/>
+    </navPoint>
+    <navPoint id="navpoint11" playOrder="11">
+      <navLabel>
+        <text>XI</text>
+      </navLabel>
+      <content src="Text/biomanzelka_017.xhtml#toc_marker-11"/>
+    </navPoint>
+    <navPoint id="navpoint12" playOrder="12">
+      <navLabel>
+        <text>XII</text>
+      </navLabel>
+      <content src="Text/biomanzelka_018.xhtml#toc_marker-12"/>
+    </navPoint>
+    <navPoint id="navpoint13" playOrder="13">
+      <navLabel>
+        <text>XIII</text>
+      </navLabel>
+      <content src="Text/biomanzelka_019.xhtml#toc_marker-13"/>
+    </navPoint>
+    <navPoint id="navpoint14" playOrder="14">
+      <navLabel>
+        <text>XIV</text>
+      </navLabel>
+      <content src="Text/biomanzelka_020.xhtml#toc_marker-14"/>
+    </navPoint>
+    <navPoint id="navpoint15" playOrder="15">
+      <navLabel>
+        <text>XV</text>
+      </navLabel>
+      <content src="Text/biomanzelka_021.xhtml#toc_marker-15"/>
+    </navPoint>
+    <navPoint id="navpoint16" playOrder="16">
+      <navLabel>
+        <text>XVI</text>
+      </navLabel>
+      <content src="Text/biomanzelka_022.xhtml#toc_marker-16"/>
+    </navPoint>
+    <navPoint id="navpoint17" playOrder="17">
+      <navLabel>
+        <text>XVII</text>
+      </navLabel>
+      <content src="Text/biomanzelka_023.xhtml#toc_marker-17"/>
+    </navPoint>
+    <navPoint id="navpoint18" playOrder="18">
+      <navLabel>
+        <text>XVIII</text>
+      </navLabel>
+      <content src="Text/biomanzelka_024.xhtml#toc_marker-18"/>
+    </navPoint>
+    <navPoint id="navpoint19" playOrder="19">
+      <navLabel>
+        <text>XIX</text>
+      </navLabel>
+      <content src="Text/biomanzelka_025.xhtml#toc_marker-19"/>
+    </navPoint>
+    <navPoint id="navpoint20" playOrder="20">
+      <navLabel>
+        <text>XX</text>
+      </navLabel>
+      <content src="Text/biomanzelka_026.xhtml#toc_marker-20"/>
+    </navPoint>
+    <navPoint id="navpoint21" playOrder="21">
+      <navLabel>
+        <text>XXI</text>
+      </navLabel>
+      <content src="Text/biomanzelka_027.xhtml#toc_marker-21"/>
+    </navPoint>
+    <navPoint id="navpoint22" playOrder="22">
+      <navLabel>
+        <text>XXII</text>
+      </navLabel>
+      <content src="Text/biomanzelka_028.xhtml#toc_marker-22"/>
+    </navPoint>
+  </navMap>
+</ncx>
