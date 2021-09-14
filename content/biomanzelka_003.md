@@ -1,7 +1,0 @@
----
-title: ''
----
-
-Biomanželka
-
-Michal Viewegh
