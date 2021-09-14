@@ -1,0 +1,548 @@
+{
+  "author": "Michal Viewegh",
+  "identifier": "viewegh-biomanzelka-fc45e1b",
+  "languagecode": "cs",
+  "modified": "2021-09-13T18:27:10.239Z",
+  "publisher": "Městská knihovna v Praze",
+  "title": "Biomanželka",
+  "revision": "fc45e1b",
+  "generatedAt": {
+    "date": "Tue Sep 14 2021 09:28:52 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1631611732588
+  },
+  "documents": [
+    {
+      "title": "",
+      "file": "biomanzelka_001.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "biomanzelka_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "biomanzelka_002.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "biomanzelka_001.html",
+      "next": "biomanzelka_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "I",
+      "file": "biomanzelka_007.html",
+      "words": 2485,
+      "chars": 15985,
+      "ideas": 71,
+      "role": "chapter",
+      "order": 2,
+      "prev": "biomanzelka_002.html",
+      "next": "biomanzelka_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "I",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "II",
+      "file": "biomanzelka_008.html",
+      "words": 871,
+      "chars": 5338,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 3,
+      "prev": "biomanzelka_007.html",
+      "next": "biomanzelka_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "II",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "III",
+      "file": "biomanzelka_009.html",
+      "words": 4254,
+      "chars": 27154,
+      "ideas": 160,
+      "role": "chapter",
+      "order": 4,
+      "prev": "biomanzelka_008.html",
+      "next": "biomanzelka_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "III",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IV",
+      "file": "biomanzelka_010.html",
+      "words": 682,
+      "chars": 4154,
+      "ideas": 11,
+      "role": "chapter",
+      "order": 5,
+      "prev": "biomanzelka_009.html",
+      "next": "biomanzelka_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V",
+      "file": "biomanzelka_011.html",
+      "words": 3448,
+      "chars": 21889,
+      "ideas": 124,
+      "role": "chapter",
+      "order": 6,
+      "prev": "biomanzelka_010.html",
+      "next": "biomanzelka_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VI",
+      "file": "biomanzelka_012.html",
+      "words": 743,
+      "chars": 4698,
+      "ideas": 42,
+      "role": "chapter",
+      "order": 7,
+      "prev": "biomanzelka_011.html",
+      "next": "biomanzelka_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VII",
+      "file": "biomanzelka_013.html",
+      "words": 4530,
+      "chars": 28296,
+      "ideas": 148,
+      "role": "chapter",
+      "order": 8,
+      "prev": "biomanzelka_012.html",
+      "next": "biomanzelka_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "VIII",
+      "file": "biomanzelka_014.html",
+      "words": 607,
+      "chars": 3651,
+      "ideas": 54,
+      "role": "chapter",
+      "order": 9,
+      "prev": "biomanzelka_013.html",
+      "next": "biomanzelka_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "VIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "IX",
+      "file": "biomanzelka_015.html",
+      "words": 2556,
+      "chars": 15962,
+      "ideas": 58,
+      "role": "chapter",
+      "order": 10,
+      "prev": "biomanzelka_014.html",
+      "next": "biomanzelka_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "IX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "X",
+      "file": "biomanzelka_016.html",
+      "words": 955,
+      "chars": 5979,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 11,
+      "prev": "biomanzelka_015.html",
+      "next": "biomanzelka_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "X",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XI",
+      "file": "biomanzelka_017.html",
+      "words": 2635,
+      "chars": 16451,
+      "ideas": 95,
+      "role": "chapter",
+      "order": 12,
+      "prev": "biomanzelka_016.html",
+      "next": "biomanzelka_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XII",
+      "file": "biomanzelka_018.html",
+      "words": 792,
+      "chars": 4944,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 13,
+      "prev": "biomanzelka_017.html",
+      "next": "biomanzelka_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIII",
+      "file": "biomanzelka_019.html",
+      "words": 1818,
+      "chars": 11509,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 14,
+      "prev": "biomanzelka_018.html",
+      "next": "biomanzelka_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIV",
+      "file": "biomanzelka_020.html",
+      "words": 538,
+      "chars": 3366,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 15,
+      "prev": "biomanzelka_019.html",
+      "next": "biomanzelka_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XV",
+      "file": "biomanzelka_021.html",
+      "words": 1920,
+      "chars": 12293,
+      "ideas": 76,
+      "role": "chapter",
+      "order": 16,
+      "prev": "biomanzelka_020.html",
+      "next": "biomanzelka_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XV",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVI",
+      "file": "biomanzelka_022.html",
+      "words": 459,
+      "chars": 2765,
+      "ideas": 35,
+      "role": "chapter",
+      "order": 17,
+      "prev": "biomanzelka_021.html",
+      "next": "biomanzelka_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVII",
+      "file": "biomanzelka_023.html",
+      "words": 1489,
+      "chars": 9434,
+      "ideas": 64,
+      "role": "chapter",
+      "order": 18,
+      "prev": "biomanzelka_022.html",
+      "next": "biomanzelka_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XVIII",
+      "file": "biomanzelka_024.html",
+      "words": 585,
+      "chars": 3567,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 19,
+      "prev": "biomanzelka_023.html",
+      "next": "biomanzelka_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XVIII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XIX",
+      "file": "biomanzelka_025.html",
+      "words": 1924,
+      "chars": 12150,
+      "ideas": 85,
+      "role": "chapter",
+      "order": 20,
+      "prev": "biomanzelka_024.html",
+      "next": "biomanzelka_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XIX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XX",
+      "file": "biomanzelka_026.html",
+      "words": 514,
+      "chars": 2973,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 21,
+      "prev": "biomanzelka_025.html",
+      "next": "biomanzelka_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XX",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXI",
+      "file": "biomanzelka_027.html",
+      "words": 1332,
+      "chars": 8435,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 22,
+      "prev": "biomanzelka_026.html",
+      "next": "biomanzelka_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXI",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "XXII",
+      "file": "biomanzelka_028.html",
+      "words": 872,
+      "chars": 5330,
+      "ideas": 46,
+      "role": "chapter",
+      "order": 23,
+      "prev": "biomanzelka_027.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "XXII",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "colophon.html",
+      "words": 187,
+      "chars": 1205,
+      "ideas": 25,
+      "role": "colophon",
+      "order": null,
+      "next": "biomanzelka_001.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": "chunk1",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "file": "index.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "index",
+      "order": null,
+      "next": "biomanzelka_001.html",
+      "toc": []
+    },
+    {
+      "title": "",
+      "file": "resources.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "other",
+      "order": null,
+      "next": "biomanzelka_001.html",
+      "toc": []
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 36196,
+      "chars": 227528,
+      "ideas": 1468
+    },
+    "chapters": {
+      "words": 36009,
+      "chars": 226323,
+      "ideas": 1443
+    }
+  }
+}
