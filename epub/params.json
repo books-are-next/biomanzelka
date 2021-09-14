@@ -32,55 +32,67 @@
         "filename": "biomanzelka_001.md",
         "xhtml": "biomanzelka_001.xhtml",
         "id": 0,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_002.md",
         "xhtml": "biomanzelka_002.xhtml",
         "id": 1,
-        "role": "chapter",
+        "role": "break",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_003.md",
         "xhtml": "biomanzelka_003.xhtml",
         "id": 2,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_004.md",
         "xhtml": "biomanzelka_004.xhtml",
         "id": 3,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_005.md",
         "xhtml": "biomanzelka_005.xhtml",
         "id": 4,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_006.md",
         "xhtml": "biomanzelka_006.xhtml",
         "id": 5,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_007.md",
@@ -89,7 +101,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "I",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_008.md",
@@ -98,7 +112,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "II",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_009.md",
@@ -107,7 +123,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "III",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_010.md",
@@ -116,7 +134,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "IV",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_011.md",
@@ -125,7 +145,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "V",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_012.md",
@@ -134,7 +156,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "VI",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_013.md",
@@ -143,7 +167,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "VII",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_014.md",
@@ -152,7 +178,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "VIII",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_015.md",
@@ -161,7 +189,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "IX",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_016.md",
@@ -170,7 +200,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "X",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_017.md",
@@ -179,7 +211,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XI",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_018.md",
@@ -188,7 +222,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XII",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_019.md",
@@ -197,7 +233,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XIII",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_020.md",
@@ -206,7 +244,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XIV",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_021.md",
@@ -215,7 +255,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XV",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_022.md",
@@ -224,7 +266,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XVI",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_023.md",
@@ -233,7 +277,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XVII",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_024.md",
@@ -242,7 +288,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XVIII",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_025.md",
@@ -251,7 +299,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XIX",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_026.md",
@@ -260,7 +310,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XX",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_027.md",
@@ -269,7 +321,9 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXI",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_028.md",
@@ -278,16 +332,20 @@
         "role": "chapter",
         "numberedChildren": false,
         "inToc": true,
-        "children": []
+        "children": [],
+        "title": "XXII",
+        "subtitle": ""
       },
       {
         "filename": "biomanzelka_029.md",
         "xhtml": "biomanzelka_029.xhtml",
         "id": 28,
-        "role": "chapter",
+        "role": "colophon",
         "numberedChildren": false,
-        "inToc": true,
-        "children": []
+        "inToc": false,
+        "children": [],
+        "title": "",
+        "subtitle": ""
       }
     ]
   },
@@ -297,8 +355,7 @@
       "identifier": "urn:uuid:a4140d12-912f-4474-b8ee-559be423b254",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-09-13T18:27:10.239Z",
-      "languageCode": "cs"
+      "modified": "2021-09-14T09:10:32.712Z"
     },
     "chapters": [
       {
@@ -338,133 +395,133 @@
         "xhtml": "biomanzelka_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I",
         "subtitleSuggest": "",
         "filename": "biomanzelka_007.md",
         "xhtml": "biomanzelka_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II",
         "subtitleSuggest": "",
         "filename": "biomanzelka_008.md",
         "xhtml": "biomanzelka_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III",
         "subtitleSuggest": "",
         "filename": "biomanzelka_009.md",
         "xhtml": "biomanzelka_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV",
         "subtitleSuggest": "",
         "filename": "biomanzelka_010.md",
         "xhtml": "biomanzelka_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V",
         "subtitleSuggest": "",
         "filename": "biomanzelka_011.md",
         "xhtml": "biomanzelka_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI",
         "subtitleSuggest": "",
         "filename": "biomanzelka_012.md",
         "xhtml": "biomanzelka_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII",
         "subtitleSuggest": "",
         "filename": "biomanzelka_013.md",
         "xhtml": "biomanzelka_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VIII",
         "subtitleSuggest": "",
         "filename": "biomanzelka_014.md",
         "xhtml": "biomanzelka_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IX",
         "subtitleSuggest": "",
         "filename": "biomanzelka_015.md",
         "xhtml": "biomanzelka_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "X",
         "subtitleSuggest": "",
         "filename": "biomanzelka_016.md",
         "xhtml": "biomanzelka_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XI",
         "subtitleSuggest": "",
         "filename": "biomanzelka_017.md",
         "xhtml": "biomanzelka_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XII",
         "subtitleSuggest": "",
         "filename": "biomanzelka_018.md",
         "xhtml": "biomanzelka_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIII",
         "subtitleSuggest": "",
         "filename": "biomanzelka_019.md",
         "xhtml": "biomanzelka_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIV",
         "subtitleSuggest": "",
         "filename": "biomanzelka_020.md",
         "xhtml": "biomanzelka_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XV",
         "subtitleSuggest": "",
         "filename": "biomanzelka_021.md",
         "xhtml": "biomanzelka_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVI",
         "subtitleSuggest": "",
         "filename": "biomanzelka_022.md",
         "xhtml": "biomanzelka_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVII",
         "subtitleSuggest": "",
         "filename": "biomanzelka_023.md",
         "xhtml": "biomanzelka_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVIII",
         "subtitleSuggest": "",
         "filename": "biomanzelka_024.md",
         "xhtml": "biomanzelka_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIX",
         "subtitleSuggest": "",
         "filename": "biomanzelka_025.md",
         "xhtml": "biomanzelka_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XX",
         "subtitleSuggest": "",
         "filename": "biomanzelka_026.md",
         "xhtml": "biomanzelka_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXI",
         "subtitleSuggest": "",
         "filename": "biomanzelka_027.md",
         "xhtml": "biomanzelka_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXII",
         "subtitleSuggest": "",
         "filename": "biomanzelka_028.md",
         "xhtml": "biomanzelka_028.xhtml"
@@ -540,6 +597,6 @@
       "user": "books-are-next",
       "repo": "biomanzelka"
     },
-    "generatedAt": 1631557630662
+    "generatedAt": 1631610633258
   }
 }
