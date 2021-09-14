@@ -12,10 +12,6 @@ meta:
 chapters:
   - biomanzelka_001.html
   - biomanzelka_002.html
-  - biomanzelka_003.html
-  - biomanzelka_004.html
-  - biomanzelka_005.html
-  - biomanzelka_006.html
   - biomanzelka_007.html
   - biomanzelka_008.html
   - biomanzelka_009.html
@@ -38,8 +34,51 @@ chapters:
   - biomanzelka_026.html
   - biomanzelka_027.html
   - biomanzelka_028.html
-  - biomanzelka_029.html
-tocBase: []
+tocBase:
+  - link: biomanzelka_007.html
+    title: I
+  - link: biomanzelka_008.html
+    title: II
+  - link: biomanzelka_009.html
+    title: III
+  - link: biomanzelka_010.html
+    title: IV
+  - link: biomanzelka_011.html
+    title: V
+  - link: biomanzelka_012.html
+    title: VI
+  - link: biomanzelka_013.html
+    title: VII
+  - link: biomanzelka_014.html
+    title: VIII
+  - link: biomanzelka_015.html
+    title: IX
+  - link: biomanzelka_016.html
+    title: X
+  - link: biomanzelka_017.html
+    title: XI
+  - link: biomanzelka_018.html
+    title: XII
+  - link: biomanzelka_019.html
+    title: XIII
+  - link: biomanzelka_020.html
+    title: XIV
+  - link: biomanzelka_021.html
+    title: XV
+  - link: biomanzelka_022.html
+    title: XVI
+  - link: biomanzelka_023.html
+    title: XVII
+  - link: biomanzelka_024.html
+    title: XVIII
+  - link: biomanzelka_025.html
+    title: XIX
+  - link: biomanzelka_026.html
+    title: XX
+  - link: biomanzelka_027.html
+    title: XXI
+  - link: biomanzelka_028.html
+    title: XXII
 static:
   - style
   - scripts
