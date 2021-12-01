@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Biomanželka",
@@ -6,7 +7,9 @@
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-09-13T18:27:10.239Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -32,7 +35,7 @@
         "filename": "biomanzelka_001.md",
         "xhtml": "biomanzelka_001.xhtml",
         "id": 0,
-        "role": "break",
+        "role": "cover",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -600,3 +603,4 @@
     "generatedAt": 1631610633258
   }
 }
+
