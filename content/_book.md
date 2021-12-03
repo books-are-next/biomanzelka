@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-09-13T18:27:10.239Z'
   languageCode: cs
-chapters:
-  - biomanzelka_001.html
+  publisherShort: mkp
+  edition: beletrie
+readingOrder:
   - biomanzelka_002.html
   - biomanzelka_007.html
   - biomanzelka_008.html
@@ -34,6 +35,7 @@ chapters:
   - biomanzelka_026.html
   - biomanzelka_027.html
   - biomanzelka_028.html
+  - colophon.html
 tocBase:
   - link: biomanzelka_007.html
     title: I
@@ -85,5 +87,6 @@ static:
   - title
   - fonts
   - resources
+  - template-images
   - favicon.png
 ---
