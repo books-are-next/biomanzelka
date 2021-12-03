@@ -1,7 +1,8 @@
-/* global self, caches, fetch */
 /* eslint-disable no-restricted-globals */
 
-const CACHE = 'cache-b21a052';
+/* global self, caches, fetch */
+
+const CACHE = 'cache-cd8ef07';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -39,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./biomanzelka_001.html","./biomanzelka_007.html","./biomanzelka_008.html","./biomanzelka_002.html","./biomanzelka_009.html","./biomanzelka_010.html","./biomanzelka_011.html","./biomanzelka_012.html","./biomanzelka_013.html","./biomanzelka_014.html","./biomanzelka_015.html","./biomanzelka_016.html","./biomanzelka_017.html","./biomanzelka_018.html","./biomanzelka_019.html","./biomanzelka_020.html","./biomanzelka_021.html","./biomanzelka_022.html","./biomanzelka_023.html","./biomanzelka_024.html","./biomanzelka_025.html","./biomanzelka_026.html","./biomanzelka_027.html","./biomanzelka_028.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./resources.html","./scripts/bundle.js","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/index.xml","./resources/obalka_biomanzelka_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./style/style.min.css"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./biomanzelka_002.html","./biomanzelka_007.html","./biomanzelka_008.html","./biomanzelka_009.html","./biomanzelka_010.html","./biomanzelka_011.html","./biomanzelka_012.html","./biomanzelka_013.html","./biomanzelka_014.html","./biomanzelka_015.html","./biomanzelka_016.html","./biomanzelka_017.html","./biomanzelka_018.html","./biomanzelka_019.html","./biomanzelka_020.html","./biomanzelka_021.html","./biomanzelka_022.html","./biomanzelka_023.html","./biomanzelka_024.html","./biomanzelka_025.html","./biomanzelka_026.html","./biomanzelka_027.html","./biomanzelka_028.html","./colophon.html","./favicon.png","./index.html","./manifest.json","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png","./resources/image001_fmt.jpeg","./resources/image002_fmt.jpeg","./resources/obalka_biomanzelka_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg"]));
 }
 
 self.addEventListener('fetch', e => {
