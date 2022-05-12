@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Lída je rozhlasová redaktorka; na starost má vzdělávací pořady o zdravém životním prostředí. Denně dojíždí do Prahy, takže jí mnoho volného času nezbývá, a proto jej věnuje výlučně tomu, co považuje za podstatné: ženskému vysvobození z područí mužů. Je to statečná vlčí bojovnice, která zasluhuje náš obdiv. Její životní historie patří do kategorie těch, které my contadoras nazýváme temblón – mrazivý příběh.

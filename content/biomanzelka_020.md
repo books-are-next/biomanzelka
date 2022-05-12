@@ -1,5 +1,6 @@
 ---
 title: XIV
+contentType: prose
 ---
 
 Mojmír se vzbudí krátce po poledni. S námahou vstane, přejde do kuchyně a zapije brufen. V koupelně si vykloktá ústní vodou s příchutí máty a potom se odšourá k oknu. Děti jdou zrovna ze školy. Pohled na ně mu připomene Hedvičino vyprávění o tom, jak jela v sedmé třídě na lyžařský kurz: matka jí odmítla byť jen zapůjčit, natožpak zakoupit sjezdové lyže a přinutila ji vzít si staré běžky (které od kohosi dostala zdarma). Všichni ostatní měli samozřejmě sjezdovky. Skončila v posledním družstvu a celý týden na zledovatělé sjezdovce padala. Mnohokrát za den. Kdykoli si Mojmír představí, jak se dívenka, která se později stala jeho ženou, otlouká o svah, jak znovu a znovu vstává, přemáhá bolest a se statečným úsměvem čelí posměchu spolužáků, zmocní se ho dojetí – a ani dnešek není výjimkou. Z kuchyně uslyší zvonění mobilu. Mojmír je přesvědčen, že volá Hedvika, a příliv lásky, vyvolaný neviditelnou silou předchozí vzpomínky, ještě zesílí. Spěchá k vyzvánějícímu přístroji, ale na displeji je jiné jméno: Darina.

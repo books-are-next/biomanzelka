@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 Nejsem jasnovidka, ale jsem ta, která ví. Žiji s vámi, ve vás. Jsem vaše tlustá prabába, vaše matka, dcera i vnučka. Jsem vaše přirozenost, vaše zapomenutá divokost, váš prazákladní ženský instinkt. Je mi padesát pět a je mi dva miliony let. Jsem mladá jako včera narozené vydří mládě. Jsem stará jako hory, jako voda, jako země. Všimly jste si, milé sestry, jak nápadně rády se koupete nebo s jakou chutí se prsty dotýkáte vlhké hlíny na vaší zahradě? To hledáte mě. Můj klid a mou moudrost.

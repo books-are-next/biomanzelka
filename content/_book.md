@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Biomanželka
@@ -12,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - biomanzelka_002.html
+  - promo.html
   - biomanzelka_007.html
   - biomanzelka_008.html
   - biomanzelka_009.html

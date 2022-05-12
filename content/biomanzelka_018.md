@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 Anesteziolog odchází hned po rozhovoru s Mojmírem, ale spisovatel a Felix zůstanou až do zavírací hodiny. Oba se opijí. Mojmír mimo jiné tančí na pódiu, vesele povzbuzován dvojicí japonských turistů; naštěstí se nesvlékne. Nakonec rusovlasé striptérce (stejně to bude jenom přeliv, říká si) obšírně líčí vzestup a pád svého manželství; Felix si mezitím u stolu zdřímne.

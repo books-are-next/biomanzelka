@@ -1,5 +1,6 @@
 ---
 title: XV
+contentType: prose
 ---
 
 Když Hedvika jednoho horkého srpnového večera roku 2006 svému muži váhavě oznámí, že by chtěla v městečku založit Mateřské centrum, Modrovous už onen urážlivý příměr s rybářovou ženou vysloví nahlas.

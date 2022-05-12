@@ -1,5 +1,6 @@
 ---
 title: VIII
+contentType: prose
 ---
 
 „Sám si vařím, sám si peru, že se na to nevyseru,“ říká Felix.

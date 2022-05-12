@@ -1,5 +1,6 @@
 ---
 title: XVI
+contentType: prose
 ---
 
 Kdyby paměť byla Mojmírův zaměstnanec, na hodinu letí. Je líná a krajně nespolehlivá. Přestože ji opakovaně žádal, aby pečlivě zaznamenávala každý jeho den a ve zbylém čase digitalizovala a katalogizovala rukou psané záznamy z minulosti, stále si to dělá po svém. Výsledek: chce po své paměti třeba jen šest let starou vzpomínku, a ona ji v tom bordelu vůbec nedokáže najít. Tvrdí sice, že v tom má systém, ale Mojmír jí popravdě řečeno už nevěří. Navíc je jeho paměť poněkud bezcharakterní: všiml si už vícekrát, že bezostyšně kolaboruje s jeho přáními. Očividně se domnívá, že nedostatečnou pracovní výkonnost lze nahradit servilitou: vždycky rychle pochopí, jaké obrazy chce Mojmír vidět, a obratem mu je nabídne.

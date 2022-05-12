@@ -1,5 +1,6 @@
 ---
 title: VI
+contentType: prose
 ---
 
 Felix bydlí sám ve čtyřpokojovém mezonetovém bytě s výhledem na polovinu Smíchova. V omítce domu jsou nad vjezdem do garáží hluboké vrypy. Felix přichází Mojmírovi otevřít a zachytí jeho pohled.

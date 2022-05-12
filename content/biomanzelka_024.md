@@ -1,5 +1,6 @@
 ---
 title: XVIII
+contentType: prose
 ---
 
 Po obědě Mojmír Helenku s dětmi doprovodí na zastávku a pomůže jí s kočárkem do tramvaje, která ji odveze na nedaleké sídliště; sám odjede opačným směrem, do centra. Chce žít v centru života, nikoli mimo něj. Vystoupí u Muzea, Václavským náměstím sejde dolů a odbočí na Národní třídu. Na Perštýně v Monarchu zakoupí láhev kvalitního cabernetu z kalifornského Napa Valley a nechá si ji od překvapeného sommeliera otevřít. Původně si sice říkal, že vystačí se dvěma kelímky z McDonald’s, ale nakonec cestou ke Staroměstskému náměstí zakoupí v jednom z těch strašlivých obchodů pro turisty dvě obří číše (pochopitelně mají jen český křišťál; Mojmír předstírá sám před sebou, že mu v dané chvíli nezáleží už na ničem, natož na penězích, ale dobře ví, že později jej ten zbytečně okázalý výdaj začne iritovat).
