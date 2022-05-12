@@ -1,5 +1,6 @@
 ---
 title: XI
+contentType: prose
 ---
 
 Rozhodující scéna, která podle Mojmíra ovlivnila jejich manželství na bezpočet dalších let, začne nenápadně: Hedvika v obvyklém spěchu odváží obě dcerky do dramatického kroužku a nemůže najít klíčky od auta.

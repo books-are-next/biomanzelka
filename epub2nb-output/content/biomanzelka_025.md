@@ -1,5 +1,6 @@
 ---
 title: XIX
+contentType: prose
 ---
 
 Sára a ostatní děti _centralizovaných matek_, jak ženy z Mateřského centra nazývá Modrovous, pomalu dorůstají do školního věku a na debaty o fotografiích zmrzlých vodních krystalů náhle není čas. Je třeba začít mluvit o tom, do jaké školy půjdou – jenže žádná škola v okolí neodpovídá Hedvičiným vysokým nárokům.

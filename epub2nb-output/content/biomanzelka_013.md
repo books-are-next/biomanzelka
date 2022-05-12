@@ -1,5 +1,6 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Příběhy jsou lékem. Vyprávím příběh, který vám dodá sílu objevit nespoutané ženské já. Vyprávím příběh o statečné ženě, která našla cestu k řece proudící pod řekou. Cestu k Río Abajo Río. O ženě, která vzkvétá vlastní integritou a vlastní přiroze­nos­tí.

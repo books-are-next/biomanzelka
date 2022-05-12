@@ -1,5 +1,6 @@
 ---
 title: I
+contentType: prose
 ---
 
 Jsem stařena. La Loba. Nejsem královna, kouzelnice ani amazonka; jsem dula. Tančím se životem i se smrtí. Jsem žena, která odhodila lodičky a nyní běhá s vlky. Poběžte se mnou, sestry moje, vezmu vás zpět na duševní území, která nám kdysi patřila.

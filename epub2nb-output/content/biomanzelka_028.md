@@ -1,5 +1,6 @@
 ---
 title: XXII
+contentType: prose
 ---
 
 „Víte, kdy jsem byl pro maminku naposledy ten nejdůležitější?“ ptá se Mojmír po příjezdu domů svých dětí (Hedvika ho vlažně přivítala a odjela na jógu) a sám si odpovídá: „Na svatbě.“

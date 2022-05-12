@@ -45,7 +45,7 @@
         "filename": "biomanzelka_002.md",
         "xhtml": "biomanzelka_002.xhtml",
         "id": 1,
-        "role": "break",
+        "role": "promo",
         "numberedChildren": false,
         "inToc": false,
         "children": [],
@@ -357,7 +357,7 @@
       "identifier": "urn:uuid:a4140d12-912f-4474-b8ee-559be423b254",
       "author": "Michal Viewegh",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-03T07:06:58.837Z"
+      "modified": "2019-01-29T00:00:00.000Z"
     },
     "chapters": [
       {
@@ -599,6 +599,6 @@
       "user": "books-are-next",
       "repo": "biomanzelka"
     },
-    "generatedAt": 1638515219542
+    "generatedAt": 1652351325709
   }
 }

@@ -1,21 +1,49 @@
 {
-  "author": "Michal Viewegh",
-  "edition": "beletrie",
-  "identifier": "viewegh-biomanzelka-cd8ef07",
-  "languagecode": "cs",
-  "modified": "2021-09-13T18:27:10.239Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Biomanželka",
-  "revision": "cd8ef07",
+  "author": "Michal Viewegh",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "viewegh-biomanzelka-37201ee",
+  "revision": "37201ee",
+  "readingOrder": [
+    "promo.html",
+    "biomanzelka_007.html",
+    "biomanzelka_008.html",
+    "biomanzelka_009.html",
+    "biomanzelka_010.html",
+    "biomanzelka_011.html",
+    "biomanzelka_012.html",
+    "biomanzelka_013.html",
+    "biomanzelka_014.html",
+    "biomanzelka_015.html",
+    "biomanzelka_016.html",
+    "biomanzelka_017.html",
+    "biomanzelka_018.html",
+    "biomanzelka_019.html",
+    "biomanzelka_020.html",
+    "biomanzelka_021.html",
+    "biomanzelka_022.html",
+    "biomanzelka_023.html",
+    "biomanzelka_024.html",
+    "biomanzelka_025.html",
+    "biomanzelka_026.html",
+    "biomanzelka_027.html",
+    "biomanzelka_028.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Fri Dec 03 2021 07:07:59 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638515279018
+    "date": "Thu May 12 2022 10:36:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351766062
   },
   "documents": [
     {
-      "title": "Biomanželka",
-      "file": "biomanzelka_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +51,17 @@
       "order": 0,
       "prev": null,
       "next": "biomanzelka_007.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "I • Biomanželka",
+      "title": "I",
       "file": "biomanzelka_007.html",
       "words": 2485,
       "chars": 15985,
       "ideas": 71,
       "role": "chapter",
       "order": 1,
-      "prev": "biomanzelka_002.html",
+      "prev": "promo.html",
       "next": "biomanzelka_008.html",
       "toc": [
         {
@@ -54,7 +74,7 @@
       ]
     },
     {
-      "title": "II • Biomanželka",
+      "title": "II",
       "file": "biomanzelka_008.html",
       "words": 871,
       "chars": 5338,
@@ -74,7 +94,7 @@
       ]
     },
     {
-      "title": "III • Biomanželka",
+      "title": "III",
       "file": "biomanzelka_009.html",
       "words": 4254,
       "chars": 27154,
@@ -94,7 +114,7 @@
       ]
     },
     {
-      "title": "IV • Biomanželka",
+      "title": "IV",
       "file": "biomanzelka_010.html",
       "words": 682,
       "chars": 4154,
@@ -114,7 +134,7 @@
       ]
     },
     {
-      "title": "V • Biomanželka",
+      "title": "V",
       "file": "biomanzelka_011.html",
       "words": 3448,
       "chars": 21889,
@@ -134,7 +154,7 @@
       ]
     },
     {
-      "title": "VI • Biomanželka",
+      "title": "VI",
       "file": "biomanzelka_012.html",
       "words": 743,
       "chars": 4698,
@@ -154,7 +174,7 @@
       ]
     },
     {
-      "title": "VII • Biomanželka",
+      "title": "VII",
       "file": "biomanzelka_013.html",
       "words": 4530,
       "chars": 28296,
@@ -174,7 +194,7 @@
       ]
     },
     {
-      "title": "VIII • Biomanželka",
+      "title": "VIII",
       "file": "biomanzelka_014.html",
       "words": 607,
       "chars": 3651,
@@ -194,7 +214,7 @@
       ]
     },
     {
-      "title": "IX • Biomanželka",
+      "title": "IX",
       "file": "biomanzelka_015.html",
       "words": 2556,
       "chars": 15962,
@@ -214,7 +234,7 @@
       ]
     },
     {
-      "title": "X • Biomanželka",
+      "title": "X",
       "file": "biomanzelka_016.html",
       "words": 955,
       "chars": 5979,
@@ -234,7 +254,7 @@
       ]
     },
     {
-      "title": "XI • Biomanželka",
+      "title": "XI",
       "file": "biomanzelka_017.html",
       "words": 2635,
       "chars": 16451,
@@ -254,7 +274,7 @@
       ]
     },
     {
-      "title": "XII • Biomanželka",
+      "title": "XII",
       "file": "biomanzelka_018.html",
       "words": 792,
       "chars": 4944,
@@ -274,7 +294,7 @@
       ]
     },
     {
-      "title": "XIII • Biomanželka",
+      "title": "XIII",
       "file": "biomanzelka_019.html",
       "words": 1818,
       "chars": 11509,
@@ -294,7 +314,7 @@
       ]
     },
     {
-      "title": "XIV • Biomanželka",
+      "title": "XIV",
       "file": "biomanzelka_020.html",
       "words": 538,
       "chars": 3366,
@@ -314,7 +334,7 @@
       ]
     },
     {
-      "title": "XV • Biomanželka",
+      "title": "XV",
       "file": "biomanzelka_021.html",
       "words": 1920,
       "chars": 12293,
@@ -334,7 +354,7 @@
       ]
     },
     {
-      "title": "XVI • Biomanželka",
+      "title": "XVI",
       "file": "biomanzelka_022.html",
       "words": 459,
       "chars": 2765,
@@ -354,7 +374,7 @@
       ]
     },
     {
-      "title": "XVII • Biomanželka",
+      "title": "XVII",
       "file": "biomanzelka_023.html",
       "words": 1489,
       "chars": 9434,
@@ -374,7 +394,7 @@
       ]
     },
     {
-      "title": "XVIII • Biomanželka",
+      "title": "XVIII",
       "file": "biomanzelka_024.html",
       "words": 585,
       "chars": 3567,
@@ -394,7 +414,7 @@
       ]
     },
     {
-      "title": "XIX • Biomanželka",
+      "title": "XIX",
       "file": "biomanzelka_025.html",
       "words": 1924,
       "chars": 12150,
@@ -414,7 +434,7 @@
       ]
     },
     {
-      "title": "XX • Biomanželka",
+      "title": "XX",
       "file": "biomanzelka_026.html",
       "words": 514,
       "chars": 2973,
@@ -434,7 +454,7 @@
       ]
     },
     {
-      "title": "XXI • Biomanželka",
+      "title": "XXI",
       "file": "biomanzelka_027.html",
       "words": 1332,
       "chars": 8435,
@@ -454,7 +474,7 @@
       ]
     },
     {
-      "title": "XXII • Biomanželka",
+      "title": "XXII",
       "file": "biomanzelka_028.html",
       "words": 872,
       "chars": 5330,
@@ -474,11 +494,11 @@
       ]
     },
     {
-      "title": "Tiráž • Biomanželka",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 187,
-      "chars": 1205,
-      "ideas": 25,
+      "words": 166,
+      "chars": 1055,
+      "ideas": 19,
       "role": "colophon",
       "order": null,
       "prev": "biomanzelka_028.html",
@@ -496,9 +516,9 @@
   ],
   "totals": {
     "all": {
-      "words": 36201,
-      "chars": 227564,
-      "ideas": 1472
+      "words": 36180,
+      "chars": 227414,
+      "ideas": 1466
     },
     "chapters": {
       "words": 36009,

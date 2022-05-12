@@ -1,5 +1,6 @@
 ---
 title: XXI
+contentType: prose
 ---
 
 Co tak strašného Popelka viděla cestou na letiště?

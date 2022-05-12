@@ -1,5 +1,6 @@
 ---
 title: X
+contentType: prose
 ---
 
 „Tak co, doktore, ještě se vám nestejská?“

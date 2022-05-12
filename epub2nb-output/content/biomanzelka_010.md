@@ -1,5 +1,6 @@
 ---
 title: IV
+contentType: prose
 ---
 
 Před Nuselským mostem odbočí Mojmír z magistrály a důvěrně známou cestou jede do svého pražského bytu. Takhle končí všechny vzpoury, kterým chybí vize. I revoluce musí mít plán. Mojmír nemá žádný, jeho takzvaný útěk od rodiny řídí zvyk a pohodlnost.

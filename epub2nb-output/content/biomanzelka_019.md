@@ -1,5 +1,6 @@
 ---
 title: XIII
+contentType: prose
 ---
 
 Nic netušící Hedvika absolvuje pár dalších víkendových kurzů pro duly, jakož i stanovený počet sezení s terapeutem, nicméně drtivou většinu jejích dnů stále zabírá monotónní kolotoč povinností spojených s dětmi, domem, zahradou a manželem. Takto pravdivě (leč trochu netakticky) to jednoho večera Mojmírovi řekne. Lezeme zrovna po podlaze a uklízíme asi patnáct kilo lega.

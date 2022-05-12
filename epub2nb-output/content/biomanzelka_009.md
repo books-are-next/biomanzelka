@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 Kdo z té sympaticky plaché knihovnice (já bych řekla zbytečně zakřiknuté) čekající na příměstský vláček udělal bezmála nejznámější středočeskou ženskou aktivistku?, ptává se Mojmír svého přítele Felixe. Kdo mu ji zkazil?

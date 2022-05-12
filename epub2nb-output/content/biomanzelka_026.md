@@ -1,5 +1,6 @@
 ---
 title: XX
+contentType: prose
 ---
 
 Mojmír nemá náladu ani na mladé Američany hledající po světě ženy nedotčené feminismem, ani na mladé Češky, které předstírají, že takovými ženami jsou. Když s tchánem dopijí láhev (sklenice uloží do bedny pod kozlíkem), nechá si zastavit a zamíří do Haštalské. I masáž je věc, bez níž by se obešel, ale nějak čas zabít musí. Ví, že svůj rádobyútěk uměle prodlužuje a že pozítří nebo možná už zítra pojede domů – ale dneska se ještě vrátit nemůže, i kdyby nakrásně chtěl.

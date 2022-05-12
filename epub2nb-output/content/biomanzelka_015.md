@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 V dlouhém seznamu věcí, které mi Modrovous klade za vinu, zaujímá jedno z předních míst položka váznoucí sex – i tohle je přirozeně křivé obvinění. Ano, občas si s Hedvikou povídáme až do noci, a když mám menses, bývám natolik přecitlivělá, že potřebuju mít někoho blízkého u sebe, ale na druhé straně mám snad dostatek taktu a soudnosti, abych se do jejich intimního života nevměšovala. Mojmír to samozřejmě popírá.
