@@ -3,6 +3,8 @@ title: XXI
 contentType: prose
 ---
 
+<section>
+
 Co tak strašného Popelka viděla cestou na letiště?
 
 „Právě že skoro nic!“ nechápe Modrovous. „Dvacet chatrčí bez elektriky a pár lehce zanedbanejch děcek se soplem pod nosem, to bylo celý. Řidič na to šlápnul a za chvíli bylo po tyátru.“
@@ -21,7 +23,9 @@ V letadle ovšem Hedvika odmítla jak lososa, tak jehněčí na rozmarýnu, a 
 
 „Uznávám, že rozdíl mezi hliněnou podlahou a týkovým dřevem, po kterým chodila šestnáct dní ona, je jaksi markantní, ale na druhý straně se coby Středočech opravdu necejtim osobně zodpovědnej za bídu v Indickým oceánu.“
 
-  
+</section>
+
+<section>
 
 Jenže Hedvika přesně tohle dělá. Vyčítá si ten pětihvězdičkový hotel. Vyčítá si ty bílé ubrusy. Vyčítá si, že ona spala v klimatizované místnosti v saténu, zatímco děti, které z autobusu zahlédla, se mačkaly ve špinavém povlečení na jakýchsi děsivých palandách.
 
@@ -43,7 +47,9 @@ Mojmír přikývne. I on je dojatý: svou domnělou ušlechtilostí.
 
 „Je lepší zapálit aspoň malou svíčku, než jen proklínat temnotu,“ odcituje mu Hedvika indické přísloví.
 
-  
+</section>
+
+<section>
 
 S Mistrovým souhlasem tedy odjedeme do pražské kanceláře České katolické charity, kde vyslechneme mnoho pohnutých příběhů a prohlédneme si několik desítek fotografií. Nakonec k _adopci na dálku_ vybereme mimořádně krásnou čtrnáctiletou indickou dívku, která se vilnému pisálkovi bezpochyby bude líbit (shodujeme se s Hedvikou telepaticky).
 
@@ -71,7 +77,9 @@ Mistr by nikdy nemohl být obchodník, neboť na jeho obličeji je až příliš
 
 „To teprv uvidíme!“
 
-  
+</section>
+
+<section>
 
 Už za tři týdny přijde z Indie první dopis. Hedvika ani já bohužel neumíme anglicky, takže jsme odkázáni na Modrovousův trapně parodický překlad.
 
@@ -103,7 +111,9 @@ Mojmír dopis naoko zdrceně odloží.
 
 „Nedostává slovní hodnocení. Dostává známky...“
 
-  
+</section>
+
+<section>
 
 Však ona ho ta legrace přejde: jedním z důsledků Hedvičiny náhodné konfrontace s absolutní chudobou je totiž nepsaná povinnost cítit se provinile; Mistr nyní musí předstírat stud za sebemenší luxus. Vína nad tři sta korun pije už jen tajně. Tygří krevety smí kupovat maximálně jednou měsíčně. Před návštěvami pracně skrývá důkazy své přetrvávající neomluvitelné rozhazovačnosti.
 
@@ -113,7 +123,9 @@ A tak dále.
 
 „Každá rodina je nešťastná vlastním způsobem,“ parafrázuje Mistr (domýšlivě) Lva Nikolajeviče Tolstého. „Například ta naše jezdí na tři tejdny na Ko Samui.“
 
-  
+</section>
+
+<section>
 
 Tím pádem musí přispívat i na charitu. Tím pádem musí uznat, že ve srovnání s africkými dětmi s oční vadou nebo s oběťmi povodní mu v životě nic nechybí. Každoročně platí dovolenou i oběma bratrům (patrně mají taky ekzém).
 
@@ -155,6 +167,10 @@ Jak mu jde psaní?
 
 Nejde mu už ta dula strašně na nervy?
 
-  
+</section>
+
+<section>
 
 Shrnuto: nevkusné bolestínství, zaslepená sebestřednost, citové vyděračství. Nakonec klesne tak hluboko, že si začne stěžovat i vlastním dětem.
+
+</section>

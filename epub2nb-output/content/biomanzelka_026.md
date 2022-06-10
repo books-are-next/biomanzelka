@@ -3,11 +3,15 @@ title: XX
 contentType: prose
 ---
 
+<section>
+
 Mojmír nemá náladu ani na mladé Američany hledající po světě ženy nedotčené feminismem, ani na mladé Češky, které předstírají, že takovými ženami jsou. Když s tchánem dopijí láhev (sklenice uloží do bedny pod kozlíkem), nechá si zastavit a zamíří do Haštalské. I masáž je věc, bez níž by se obešel, ale nějak čas zabít musí. Ví, že svůj rádobyútěk uměle prodlužuje a že pozítří nebo možná už zítra pojede domů – ale dneska se ještě vrátit nemůže, i kdyby nakrásně chtěl.
 
 Důstojnost, to je, oč tu běží.
 
-  
+</section>
+
+<section>
 
 Thajská masérka v hotelu Maximilián si Mojmíra pamatuje z předchozích návštěv, ale přesto se jej špatnou angličtinou formálně zeptá, o jaký druh masáže má zájem.
 
@@ -21,7 +25,9 @@ Ani tentokrát si není jistý, zda mu žena rozumí – ale tenhle pocit zná 
 
 Cítí její vůni. Během hodinové masáže stejnou otázku uslyší ještě minimálně dvakrát. Co by za to dal, kdyby se jej Hedvika takhle zeptala aspoň jednou měsíčně? říká si v dalším návalu sebelítosti.
 
-  
+</section>
+
+<section>
 
 Po masáži pije čaj, jako obvykle dostává vybrat asi z deseti druhů. Doma mají bezpočet čajů, které chutnají Hedvice, a výjimečně i Earl Grey, který má rád Mojmír. Doslova se utápí v dětinských pocitech křivdy – a přesto se touží vrátit domů. Hned.
 
@@ -45,7 +51,9 @@ Hedvika zaváhá. Na žádný nákup nejezdi a pojeď rovnou domů. Tohle by ch
 
 „Když už pojedu kolem...“
 
-  
+</section>
+
+<section>
 
 V Průhonicích tedy udělá velký nákup; vybírá pokud možno biopotraviny (ví, že to Hedviku potěší). Přidá ještě portské, které má ráda, a dcerkám koupí nové lego. Přijíždí domů, otvírá branku, děti vybíhají z domu, objímají ho. Hedvika je po chvíli ná­sleduje.
 
@@ -60,3 +68,5 @@ Hedvika se usmívá. Proč se nezeptá, kde k té vůni přišel? Proč nežár
 „Byl jsem na masáži.“
 
 „Tak sis to užil, ne?“ říká Hedvika a začíná vynášet z auta igelitky s ná­kupem.
+
+</section>

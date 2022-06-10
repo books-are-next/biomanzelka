@@ -3,11 +3,15 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 Příběhy jsou lékem. Vyprávím příběh, který vám dodá sílu objevit nespoutané ženské já. Vyprávím příběh o statečné ženě, která našla cestu k řece proudící pod řekou. Cestu k Río Abajo Río. O ženě, která vzkvétá vlastní integritou a vlastní přiroze­nos­tí.
 
 „A o jejím manželovi, který se z toho málem zbláznil,“ dodal by nejspíš Mojmír.
 
-  
+</section>
+
+<section>
 
 Osud tomu chtěl, že Hedvika zaslechla píseň, kterou jsem pro ni zpívala. Vybrala si můj předporodní kurz, a dovolila mi tak vstoupit do jejího života.
 
@@ -25,7 +29,9 @@ Přibouchne lednici a s demonstrativní nechutí se zakousne do dva dny staré
 
 „Bylo to prostě půl na půl, což je zoufale malá šance. Ale aspoň se nemusím obviňovat, že jsme měli bezpočet jinejch možností, jak se vám vyhnout. Aspoň to.“
 
-  
+</section>
+
+<section>
 
 Ano, nemohli se mi vyhnout. Moje setkání s Hedvikou bylo nevyhnutelné. Jejího drobného obličeje, jehož nevšední půvab pokaždé naplno odkryje až zářivý úsměv, jsem si všimla okamžitě – a stejně rychle jsme si porozuměly. Dodnes nás spojuje cosi, co lze slovy jen těžko popsat.
 
@@ -35,7 +41,9 @@ Paměť má Mistr dobrou, to se musí nechat. Ano, tušila jsem to – ať si o
 
 Jsem baba Jaga, k níž si přišla pro oheň poznání.
 
-  
+</section>
+
+<section>
 
 Pan spisovatel sice v sebekritičnosti nikdy nevynikal, ale na rozdíl od ještě samolibějších mužů, než je on sám (moc už jich není), si naštěstí alespoň uvědomoval, že nechce-li u porodu pouze překážet, měl by předporodní kurz absolvovat také – Hedvika ho o to ostatně prosila. Ujišťovala ho, že do kurzu budou se svými partnerkami chodit i další otcové (což se později potvrdilo), avšak na úvodní lekci byl Mojmír shodou okolností jediným mužem v sále. Fotbalová jedenáctka těhotných žen sedících na nafukovacích míčích – a vedle nich Mistr na rozvrzané židli... Chichi!
 
@@ -63,7 +71,9 @@ A tak dále.
 
 Musím uznat, že Mojmír ve výše zmíněných testech vcelku obstál. O autentičnosti příběhů z českých porodnic si nedovolil pochybovat a veřejně uznal, že „tradiční“ porod může být pro ženu mnohdy otřesný zážitek – v jeho tváři se přitom ani na okamžik neobjevil ten sarkastický škleb, kterému nyní čelím pokaždé, jakmile promluvím. Při masírování těhotné ošklivky neztratil galantnost, břišní tanec dvou žen v sedmém měsíci nepřirovnával – jak by to bezpochyby udělal dnes – k pohybům velryb uvízlých na mělčině, a ovládl se dokonce i ve chvíli, kdy jsem hrála na didžeridu, hudební nástroj australských Aboridžinců (když jsem prohlásila, že děloha je pro dítě první hudební škola, zdvihl ironicky obočí, ale nechal to bez komentáře). Pokud prohlédl, že se na něm tak trochu mstím za všechny ty arogantní porodníky, zpupné úředníky a uzurpátorské manžely, s nimiž bojuji celý život, nedal to nikterak najevo.
 
-  
+</section>
+
+<section>
 
 Po skončení hodiny mě s Hedvikou pozvali na oběd. Mojmír byl mile obřadný. Jeho historky nebyly tak zábavné, jak se možná domníval, ale nenudila jsem se. Nenápadně jsem je pozorovala: jejich vztah ani po dvou letech očividně ještě neopustil stadium vzájemné zamilovanosti, což jsem jim mohla jen (přejícně) závidět. Hedvika Mojmírovi naštěstí občas jen pohladila ruku nebo si na pár vteřin opřela hlavu o jeho rameno, ale Mojmír trpěl nutkavou potřebou dotýkat se Hedviky prakticky neustále; přesto mi naslouchal se zájmem, který (připadalo mi) nebyl jen zdvořilý. Zaplatil za mě a pomohl mi do kabátu.
 
@@ -71,18 +81,24 @@ Obstál. Nevzbuzoval podezření. Ukolébal mou vlčí ostražitost.
 
 Jak to dokázal? Kdo ho naučil takovému sebeovládání? říkáte si. Kdybych si nevšimla meditační karty, která při odchodu z restaurace šťastnou náhodou vypadla z Mojmírova koženého diáře, možná ani já bych si tuhle otázku nedokázala zodpovědět.
 
-  
+</section>
+
+<section>
 
 _Neposuzující mysl  
 pozoruje a chápe._
 
-  
+</section>
+
+<section>
 
 Chápete? Jako skuteční mistři bojových umění využil Modrovous energie jednoho protivníka (buddhismus) a obrátil ji proti druhému (alternativní porody). V jistém smyslu to byla fascinující lekce. Toho dne jsem si poprvé uvědomila, jak může být nebezpečný. Pochopila jsem, že budu potřebovat veškerou svou erudici a zkušenost, abych ho mohla porazit.
 
 Pochopila jsem, že v sobě musím vzbudit divokou ženu.
 
-  
+</section>
+
+<section>
 
 Pan spisovatel se stejně jako podobní hystericky starostliví otcové obával, že s Hedvikou do porodnice nepřijede včas. Jakmile se Hedvika na mé doporučení definitivně rozhodla rodit ve Vrchlabí, romanopiscova bezbřehá fantazie začala ihned malovat velká apokalyptická plátna s námětem porodu na krajnici silnice před Novou Pakou, v lepším případě na špinavém zadním sedadle pražského taxíku. Marně jsem jej ujišťovala, že první signály přicházejícího porodu a porod samotný dělí obvykle celé hodiny času, a že tudíž výše zmíněné riziko je téměř nulové.
 
@@ -112,7 +128,9 @@ Klepl na obálku dvakrát nehtem.
 
 „Proč ne?“ pravila jsem co možná nenuceně.
 
-  
+</section>
+
+<section>
 
 Snažila jsem se být ohleduplná: na vycházky po horách, na nákupy i do kina jsem sice chodila s nimi, ale pochopitelně jsem měla vlastní pokoj (platil ho Mojmír) a po desáté hodině jsem plně respektovala jejich soukromí. Pokud Mojmíra má přítomnost (nakonec více než dvoutýdenní) přesto iritovala, nedával mi to najevo. V jeho poznámkách se už sice tu tam objevil nesouhlas a někdy i sarkasmus, ale žádnou skutečnou neuctivost si vůči mně až do porodu nedovolil.
 
@@ -166,7 +184,9 @@ Tyhle věty, které před námi naoko pracně soustruží, si určitě vyrobil p
 
 Imituje údiv, zatímco dravec v něm jásá: ví, jak bolestivou ránu mi právě uštědřil.
 
-  
+</section>
+
+<section>
 
 Ale až do porodu se v podobných výpadech vůči mně musel držet zpátky – uvědomoval si totiž, že mě bude potřebovat. Ještě nikdy u porodu neasistoval; jeho první žena rodila na počátku osmdesátých let, kdy přítomnost otců na porodním sále bylo něco zcela nemyslitelného (většinou nesměli ani do budovy a na své ženy opile hulákali zpod oken). S jeho zvyšující se nervozitou rostla moje převaha. Dovolovala jsem si čím dál víc. Navrhl třeba krátkou procházku po okolí, jenže já mu sebrala mapu a vláčela je oba devět kilometrů lesem (ženy jak známo neumějí číst v mapách).
 
@@ -190,7 +210,9 @@ Korunami smrků nad našimi hlavami probleskuje slunce. Pryskyřice horce voní.
 
 Bojí se úplně zbytečně. Až to na Hedviku přijde, budu to vědět.
 
-  
+</section>
+
+<section>
 
 Vzbudím se přesně ve chvíli, kdy Hedvika zaznamená první bolesti. Můj sonar ve tmě pokoje registruje každý její pohyb. Vnímám její vůni, slyším její těžký krok, cítím pulz těch dvou vzrušených, nezkrotných srdcí: velkého i maličkého. Hedvika škrtla zápalkami a založila rudý oheň svého tvořivého života. Ležím a čekám, až mě její vlasy zašimrají ve tváři (jistě, dámy, víte, že ženská pokožka je až desetkrát citlivější než ta mužská). Teď.
 
@@ -202,7 +224,9 @@ Otvírám svou náruč. Pohladím ji po vlasech a po břiše a zjistím, nakol
 
 Na sobě má bundu i boty. Nepřekvapilo by mě, kdyby spal oblečený. Spisovatelé, znalci života...
 
-  
+</section>
+
+<section>
 
 Během porodu ovšem vzorně spolupracuje: namáčí žínku a přikládá ji své ženě na čelo. Povzbudivě s ní hovoří a usmívá se na ni. Masíruje ji a větrá místnost. Změří teplotu vody ve vaně a hlásí výsledek. Uvaří mi mátový čaj, kterému nelze nic vytknout, a primáře pobaví rádoby veselou historkou. Nepřekáží. Do magnetofonu založí nové cédéčko se zpěvem velryb. Když s Hedvikou tančíme břišní tanec, na rozdíl od přítomné sestry se zdrží komentáře.
 
@@ -210,7 +234,9 @@ Primář mě zná léta a především je na správné straně barikády (moc d
 
 V půl třetí ráno je Sára na světě. Už dávno jsem neviděla tak krásného novorozence. Kde je tu nějaká spravedlnost? myslím si v duchu, neboť díky Hedvice znám okolnosti početí: Mistr na jakési degustaci vypije dva litry vína, sežere tři čtvrtě kila šunky od kosti – a doma pak s funěním vyleze na tu nebohou dívku, která ho kupodivu nejenže neshodí, ale ještě mu o devět měsíců později porodí modrookého andílka... Vážně nechápu, proč to prase spisovatelské má u pánaboha takovou protekci. Uznejte samy, milé sestry: nebylo by spravedlivější, kdybychom jim po podobné inseminaci porodily podsvinče?
 
-  
+</section>
+
+<section>
 
 K prvnímu otevřenému konfliktu mezi mnou a Modrovousem dojde třetí noc po porodu na našem společném pokoji.
 
@@ -270,13 +296,17 @@ Rád bych vás upozornil, že polopravda je součást lži!“
 
 „A já bych vás ráda upozornila, že podobným polopravdám se říká umění fabulace. O tom byste měl něco vědět.“)
 
-  
+</section>
+
+<section>
 
 Ráno po výše popsaném incidentu přijede do Vrchlabí Felix; Mojmír jej odjede ubytovat do penzionu – a zbylé dva dny tam s ním zůstane, takže zatímco my s Hedvikou koupeme večer Sáru v heřmánku, oni se v jakémsi baru ve Špindlerově Mlýně doslova koupou v šampaňském (nazítří celý den oba prozvrací).
 
 Muži... Je nutné cokoli dodávat?
 
-  
+</section>
+
+<section>
 
 Hedvika má Mojmíra ráda – a samozřejmě miluje i mne. Potřebuje nás oba. Jak se blíží konec našeho pobytu v porodnici, je čím dál rozpolcenější. Jsou v ní dvě ženy: vnější bytost a criatura.
 
@@ -286,7 +316,9 @@ vysvětluji jí. „Criatura v tobě přichází z veliké hloubky. Objevuje s
 
 „Přesně tak,“ komentuje to zatrpkle Mojmír. „A já vám řeknu, co: originální a významnou degradaci role manžela.“
 
-  
+</section>
+
+<section>
 
 V den odjezdu se Hedvika zeptá Mojmíra, zda bych po dobu šestinedělí nemohla bydlet v jejich domě. V hostovském pokoji, přirozeně.
 
@@ -325,3 +357,5 @@ Mojmír zaúpí a položí si hlavu na její naběhlá prsa.
 „Takže takový dočasný pobyt vojsk,“ spíše konstatuje, než se ptá. Jedno mu nelze upřít: intuici.
 
 Letos u nich bydlím sedmý rok.
+
+</section>

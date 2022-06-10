@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 Nic netušící Hedvika absolvuje pár dalších víkendových kurzů pro duly, jakož i stanovený počet sezení s terapeutem, nicméně drtivou většinu jejích dnů stále zabírá monotónní kolotoč povinností spojených s dětmi, domem, zahradou a manželem. Takto pravdivě (leč trochu netakticky) to jednoho večera Mojmírovi řekne. Lezeme zrovna po podlaze a uklízíme asi patnáct kilo lega.
 
 „V tomto pořadí,“ dodá ihned Modrovous dotčeně, ale černé svědomí jej přiměje, aby nám s uklízením pomohl.
@@ -65,7 +67,9 @@ Dlouze se odmlčí.
 
 Přesto nakonec souhlasí, neboť se cítí provinile. Nemůže píchat instruktorku (představuji si, že nějak takhle to řekl Felixovi) a současně Hedvice zakazovat kurzy... Jeho ženu příjemně překvapí, že kladl tak krátký odpor. Mě ne.
 
-  
+</section>
+
+<section>
 
 „Opravdu nechápu, proč je nutný k technologicky tak primitivní věci, jako je kojení, budovat síť poraden,“ tvrdí Mistr o pár měsíců později mému manželovi (jistě vám nemusím vysvětlovat, proč se ti dva sešli: aby se poradili, jak mě dostat z Hedvičina domu).
 
@@ -79,7 +83,9 @@ Můj manžel je dosud okouzlený skutečností, že poprvé v životě mluví s
 
 S těmi telefonáty ovšem příliš nepřehání: jakmile Hedvika kurz absolvuje a vejde coby laktační poradkyně v širokém okolí ve známost, neuplyne den, aby Mojmír nevyslechl minimálně dva dlouhé telefonáty o nabízení prsu, odstříkávání, mastitidě, bílých bradavkách, odsávačkách, odříhávání, žlázové tkáni, nepřibývání na váze, prořezávání zubů, přestávkách mezi kojeními, poloze tanečníka a poloze vleže. Dobře mu tak! Po pár měsících tohoto nedobrovolného školení si musí přiznat, že celou problematiku bagatelizoval. Už ví, že zdánlivě jednoduché kojení je poměrně složitou záležitostí, která dokáže matku i dítě pěkně potrápit – ale ješitnost mu nedovolí, aby to vyslovil nahlas.
 
-  
+</section>
+
+<section>
 
 Musím popravdě uvést, že ani u následující tragikomické scény jsme s Hedvikou nebyly, a že je tudíž z velké části produktem mé nedávno probuzené literární kreativity; její základ je nicméně zcela pravdivý, pouze dialogy jsou fiktivní (znám ale Modrovouse natolik dobře, že by mne nijak nepřekvapilo, kdyby se moje smyšlené a jeho skutečné repliky shodovaly).
 
@@ -119,7 +125,9 @@ Spisovatel se lehce ukloní (vsaďte se, milé sestry, že to udělal). Mladá m
 
 Ptáte se, jestli naznačuji další nevěru? Ne. Opravdu netuším, co se tam potom dělo. Vážně nemohu vědět všechno.
 
-  
+</section>
+
+<section>
 
 Darina je jedna z těch příliš mladých žen, které mateřství zaskočilo. Ještě včera tančily v music barech – a dnes sedí doma a utírají dítěti zadek. Marně se snaží držet krok s ostatními matkami a sdílet jejich nadšení nad prořezanými zoubky a pěknou stolicí... A tak dále. Jak víme, Mojmír je na tom podobně. To, co Darinu a Mojmíra spontánně spojí, jsou přihlouplé rouhačské řeči o rodičovství a o dětech.
 
@@ -153,10 +161,14 @@ Tomáška, který na oranžovém koberci skládá s otcem puzzle s obrázkem z
 
 Téměř se dotýkají čely. On cítí její parfém, ona whisky z jeho dechu. „Udělám všechno, abych vám v tom zabránila,“ pošeptá mu. A tak dále.
 
-  
+</section>
+
+<section>
 
 Kde se jejich známost tak nebezpečně rozvinula? ptáte se možná. Kde je ten oranžový koberec?
 
 Tam, kde se Darina několik let marně pokoušela (dle svých vlastních slov) stát tou dobrou mámou z dětského jogurtu. V Mateřském centru.
 
 Vlastně ji Mojmírovi na stříbrném podnose naservírovala sama Hedvika.
+
+</section>

@@ -3,9 +3,13 @@ title: XVIII
 contentType: prose
 ---
 
+<section>
+
 Po obědě Mojmír Helenku s dětmi doprovodí na zastávku a pomůže jí s kočárkem do tramvaje, která ji odveze na nedaleké sídliště; sám odjede opačným směrem, do centra. Chce žít v centru života, nikoli mimo něj. Vystoupí u Muzea, Václavským náměstím sejde dolů a odbočí na Národní třídu. Na Perštýně v Monarchu zakoupí láhev kvalitního cabernetu z kalifornského Napa Valley a nechá si ji od překvapeného sommeliera otevřít. Původně si sice říkal, že vystačí se dvěma kelímky z McDonald’s, ale nakonec cestou ke Staroměstskému náměstí zakoupí v jednom z těch strašlivých obchodů pro turisty dvě obří číše (pochopitelně mají jen český křišťál; Mojmír předstírá sám před sebou, že mu v dané chvíli nezáleží už na ničem, natož na penězích, ale dobře ví, že později jej ten zbytečně okázalý výdaj začne iritovat).
 
-  
+</section>
+
+<section>
 
 Tchán sedí na kozlíku o poznání vzpřímeněji než jeho kolegové. Mojmír musí uznat, že svou životní situaci snáší s obdivuhodným klidem a důstojností. Mlčky hledí do míst, kde před pár staletími zemřelo dvacet sedm českých šlechticů. Coby bývalý učitel češtiny a dějepisu o tom ví bezpochyby víc než já, říká si Mojmír. Vyskočí na kozlík kočáru, který jej před osmi lety vezl na svatbu.
 
@@ -106,3 +110,5 @@ Mojmír se uchechtne.
 „Ale to se mýlí, nebo ne?“
 
 „Jo, to se mýlí!“ rozesměje se Jiřina a půvabně zčervená.
+
+</section>

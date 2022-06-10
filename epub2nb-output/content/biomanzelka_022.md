@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 Kdyby paměť byla Mojmírův zaměstnanec, na hodinu letí. Je líná a krajně nespolehlivá. Přestože ji opakovaně žádal, aby pečlivě zaznamenávala každý jeho den a ve zbylém čase digitalizovala a katalogizovala rukou psané záznamy z minulosti, stále si to dělá po svém. Výsledek: chce po své paměti třeba jen šest let starou vzpomínku, a ona ji v tom bordelu vůbec nedokáže najít. Tvrdí sice, že v tom má systém, ale Mojmír jí popravdě řečeno už nevěří. Navíc je jeho paměť poněkud bezcharakterní: všiml si už vícekrát, že bezostyšně kolaboruje s jeho přáními. Očividně se domnívá, že nedostatečnou pracovní výkonnost lze nahradit servilitou: vždycky rychle pochopí, jaké obrazy chce Mojmír vidět, a obratem mu je nabídne.
 
 Dnes ráno (stále v jeho nuselském bytě) mu například předloží třináct let starou videonahrávku s jeho expřítelkyní – konkrétně tu část, kde osmnáctiletá Helenka ráno vstává a svléká si noční košilku. Mojmír v tom filmu leží v posteli a pozoruje ji. Potom ji požádá, aby se k němu ještě na chvíli vrátila. Helenka vyjádří obavu, že přijde pozdě do školy, ale nakonec ho poslechne... Kouká se na to hezky. Mojmír má erekci. Navíc mu jeho paměť tvrdí, že Helenka jej vždycky obdivovala a že k němu nikdy nepřestala vzhlížet, ba co víc, že jeho život s Helenkou by byl možná lepší než s Hedvikou. Čůrala snad Helenka kluby? Přitáhne si mobil a bez rozmyšlení jí zavolá.
@@ -13,7 +15,9 @@ Dnes ráno (stále v jeho nuselském bytě) mu například předloží třinác
 
 „Vezmi děti s sebou,“ navrhne jí Mojmír neuváženě.
 
-  
+</section>
+
+<section>
 
 „Nevadí, když ti budu řikat strejdo?“ pošeptá mu Helenka před vchodem do restaurace Magická zahrada a s významným pohledem na staršího synka omluvně zakoulí očima (manželovi totiž řekla, že jíždí Prahou).
 
@@ -72,3 +76,5 @@ Helenka zkontroluje staršího syna pohledem a položí si prst na ústa.
 „Nebolí tě pusa?“
 
 „Bolí.“
+
+</section>

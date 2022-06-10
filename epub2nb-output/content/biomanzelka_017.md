@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 Rozhodující scéna, která podle Mojmíra ovlivnila jejich manželství na bezpočet dalších let, začne nenápadně: Hedvika v obvyklém spěchu odváží obě dcerky do dramatického kroužku a nemůže najít klíčky od auta.
 
 „Neviděls je někde?“
@@ -13,7 +15,9 @@ Mojmír chvíli pozoruje její pobíhání po domě, ale potom to nevydrží, vs
 
 Hulvát Mojmír nepovažuje za nutné odpovídat a znovu zasedne k novinám.
 
-  
+</section>
+
+<section>
 
 Když se Hedvika vrátí, posadí se Mistrovi na klín, což jej zjevně potěší. Mají celou hodinu jenom pro sebe (děti jsou na kroužku a já v lázních).
 
@@ -23,7 +27,9 @@ Když se Hedvika vrátí, posadí se Mistrovi na klín, což jej zjevně potěš
 
 Mojmír ji popadne za ruku a odvádí ji nahoru do patra. Dům je podivně ztichlý a prázdný. Zatímco si Mojmír myje na bidetu žalud a předkožku (tomuhle nechutnému dílčímu úkonu muži říkají celková osobní hygiena...), Hedvika si uvědomí, že až obě dcerky odrostou, bude dům tichý a prázdný už navždy.
 
-  
+</section>
+
+<section>
 
 „Chtěla bych ještě jedno dítě,“ přizná Mojmírovi ihned po aktu (fabulovat mě baví, ale souložícího Modrovouse si opravdu představovat nehodlám).
 
@@ -53,7 +59,9 @@ Náš nejznámější prozaik se nezmůže na odpověď. Aby získal čas, nebo 
 
 Apoštol rozumu Mojmír, který předloni na čtení v Bologni své polské kolegyni zaplatil dvě předražené šestnáctileté whisky, si to iracionálně vykládá jako sprostý nevděk. Bezmocně listuje diářem. Má pocit, že se proti němu spikly všechny ženy světa.
 
-  
+</section>
+
+<section>
 
 Psychologicky vzato se stalo tohle: divoška v Hedvice zatoužila po dalším dítěti, ale protože její Río Abajo Río narazila na betonovou přehradu Modrovousova kategorického NE!, nespoutaná síla vody si okamžitě našla jiné řečiště.
 
@@ -83,7 +91,9 @@ V pěti letech! Z vlčic samozřejmě taky. Kolik že vám to je?“ Nemilosrd
 
 A tak dále.
 
-  
+</section>
+
+<section>
 
 Hedvika ovšem jeho vychytralou taktiku snadno prohlédne i bez mé pomoci. Ujistí manžela, že bez problémů zvládne děti, dům zahradu – i kurz.
 
@@ -111,7 +121,9 @@ Opájí se svou mocí jako začínající učitel (stačí vstoupit do třídy a
 
 Muži...
 
-  
+</section>
+
+<section>
 
 Později Mojmír svého souhlasu začíná dle očekávání litovat.
 
@@ -161,11 +173,15 @@ Dcerky jsou toho dne v dobrém rozmaru, pochopitelně se na mámu těší. Cest
 
 Muži...
 
-  
+</section>
+
+<section>
 
 Přijedou během přípravy večeře: právě strouháme brambory a cukety na cmundu. Já i účastnice kurzu jsme už na občasné přepadové kontroly manželů zvyklé, takže i v Mojmírově případě vcelku přesvědčivě předstíráme, že nás ani ve snu nenapadlo, že by motivem páně spisovatelovy návštěvy mohlo být něco tak trapného a muže nedůstojného, jako je žárlivost. S vlídnou ochotou přijímáme jeho vysvětlení, že vzal děti na výlet, a náhle si uvědomil, že jsou vlastně docela blízko... (Pětačtyřicet kilometrů? myslím si jízlivě, ale kvůli Hedvice si tu poznámku nechám pro sebe.) Hedvika a dvě další ženy se ujmou obou holčiček. Mojmír se podezíravě rozhlíží kolem. Bubny se povalují v koutě a vypadají neškodně. Rovněž terapeut je starší a tlustší, než náš Othello čekal; během odpolední meditace si navíc dal šlofíka, takže nyní víc než jindy připomíná medvěda brtníka probuzeného po zimním spánku. A opravdu tu nemáme žádný alkohol... Zcela nevinný charakter naší ženské skupiny Mojmíra uspokojí: chová se ke mně zdvořile, což je příjemná změna, ale především je doslova zavalen láskou ke své věrné ženě. Neustále se jí dotýká.
 
-  
+</section>
+
+<section>
 
 Když o chvíli později zaslechne blížící se zvuk bubnů, znovu zpozorní. Ženská smečka jeho neklid okamžitě vycítí: ruce na struhadle se zastaví, vlčata zmlknou, hovor utichne. Do místnosti vstoupí Láďa: s africkým bubínkem, s dlouhými vlasy a čelenkou na hlavě.
 
@@ -195,7 +211,9 @@ Náš princ se zalyká ponížením a vztekem.
 
 Popelka – řečeno s páně spisovatelovou jemností – _má po píči_.
 
-  
+</section>
+
+<section>
 
 Hle, názorná ukázka děsivé mužské logiky:
 
@@ -205,6 +223,10 @@ Hle, názorná ukázka děsivé mužské logiky:
 
 3/ teprve vlastní nevěra mu umožní ženě odpustit to, že jej nepodvedla.
 
-  
+</section>
+
+<section>
 
 (S kým Hedviku podvede? Ale to přece víte.)
+
+</section>

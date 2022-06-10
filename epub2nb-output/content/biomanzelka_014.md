@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 „Sám si vařím, sám si peru, že se na to nevyseru,“ říká Felix.
 
 Tohle už Mojmír slyšel mockrát. Venku začíná poprchávat. Mojmír vstane, přejde pokoj a rozsvítí. Potom se znovu posadí. Láhev je dopitá.
@@ -101,7 +103,9 @@ Mojmír zdvihne obočí.
 
 „To se poddá.“
 
-  
+</section>
+
+<section>
 
 Povečeří v restauraci Kogo a potom se přesunou do nedalekého striptýzového podniku; ani jeden z nich tu není poprvé. Mojmír se dívá na vysokou brunetku na pódiu a rozhlíží se po setmělém poloprázdném sále. Celkem napočítá devět mužů.
 
@@ -110,3 +114,5 @@ Povečeří v restauraci Kogo a potom se přesunou do nedalekého striptýzov�
 Jeden z mužů váhavě zdvihne ruku na pozdrav. Mojmír se zasměje. „Zdravíčko, doktore!“ zvolá.
 
 „To je manžel tý báby,“ vysvětlí Felixovi. „Objednej něco příšerně drahýho, jdu ho zatím pozdravit.“
+
+</section>

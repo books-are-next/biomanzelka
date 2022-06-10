@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-biomanzelka-37201ee",
-  "revision": "37201ee",
+  "identifier": "viewegh-biomanzelka-2bc859b",
+  "revision": "2bc859b",
   "readingOrder": [
     "promo.html",
     "biomanzelka_007.html",
@@ -37,8 +37,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 10:36:06 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652351766062
+    "date": "Fri Jun 10 2022 17:47:03 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883223852
   },
   "documents": [
     {
@@ -496,9 +496,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 166,
-      "chars": 1055,
-      "ideas": 19,
+      "words": 84,
+      "chars": 573,
+      "ideas": 7,
       "role": "colophon",
       "order": null,
       "prev": "biomanzelka_028.html",
@@ -516,9 +516,9 @@
   ],
   "totals": {
     "all": {
-      "words": 36180,
-      "chars": 227414,
-      "ideas": 1466
+      "words": 36098,
+      "chars": 226932,
+      "ideas": 1454
     },
     "chapters": {
       "words": 36009,

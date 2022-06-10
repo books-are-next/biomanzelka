@@ -3,6 +3,8 @@ title: XXII
 contentType: prose
 ---
 
+<section>
+
 „Víte, kdy jsem byl pro maminku naposledy ten nejdůležitější?“ ptá se Mojmír po příjezdu domů svých dětí (Hedvika ho vlažně přivítala a odjela na jógu) a sám si odpovídá: „Na svatbě.“
 
 Sára i Bára ho zaraženě pozorují.
@@ -27,7 +29,9 @@ Nepočítal prý ani s tím, že maminka bude mít tolik ráda zahradu kolem do
 
 Je prý moc zklamaný.
 
-  
+</section>
+
+<section>
 
 Té noci má Mojmír ošklivý sen: když přijede z Prahy, na terase jeho domu sedí kromě manželky a duly i další ženy z Mateřského centra, a k Mojmírově značné nelibosti jsou tu i Láďa a Tamal.
 
@@ -59,7 +63,9 @@ Ostatní maso uloží do mikrotenových sáčků, které Hedvika popíše perman
 
 Z jeho kostí pak společně uvaří biomýdlo.
 
-  
+</section>
+
+<section>
 
 Ráno značně otřesený Mojmír vstane, opláchne se, vyčistí si zuby a podpaží si natře kuličkovým deodorantem, který mu Hedvika koupila k narozeninám a který na rozdíl od všech ostatních kuličkových deodorantů neobsahuje hliník. Posnídá ovesné biovločky zalité biomlékem, na žádost své ženy jí podepíše dvě zbrusu nové petice (proti lovu velryb a proti tělesným trestům) a přečte si nejzajímavější emaily, které v minulých dnech dostala, a řekne jí, co si o nich nemyslí (protože kdyby jí řekl, co si o nich myslí, naštvala by se); přeloží další dopis od Tamala, pošle mu na studia šest tisíc korun a objedná Hedviku ke kadeřníkovi a ke gynekologovi (nestihla se objednat sama, neboť už několik dní sepisuje komplikovanou žádost o evropský grant na dětské hřiště). Nakonec ještě ostříhá oběma dcerkám nehty, neboť sousedovic kocour je už od nich ošklivě podrápaný – a může jít psát.
 
@@ -96,3 +102,5 @@ Musí něco udělat, umiňuje si. Přemýšlí. Už ví.
 Napíše o tom knihu. Zdánlivě humoristický román.
 
 Tak.
+
+</section>

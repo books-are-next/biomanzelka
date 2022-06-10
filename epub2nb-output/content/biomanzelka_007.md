@@ -3,9 +3,13 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Jsem stařena. La Loba. Nejsem královna, kouzelnice ani amazonka; jsem dula. Tančím se životem i se smrtí. Jsem žena, která odhodila lodičky a nyní běhá s vlky. Poběžte se mnou, sestry moje, vezmu vás zpět na duševní území, která nám kdysi patřila.
 
-  
+</section>
+
+<section>
 
 Od začátku jsem přesvědčena, že Mojmírovo manželství s Hedvikou je moderní soft verzí pradávného příběhu o Modrovousovi, který vraždí své ženy. Jistě jej znáte: nezkušená kráska se provdá za chlípné bohaté monstrum, které jí naoko poskytuje svobodu, ale ve skutečnosti zabíjí její přirozenou krásu, talent a nespoutanost.
 
@@ -41,13 +45,17 @@ Ano, stejně jako miliony ostatních mužů, ani Mojmír není schopen vidět sk
 
 Avšak dokonce i primitiv jako Mojmír chápal, že jen tělesnou touhou všechnu tu seznamovací překotnost vysvětlit nejde. Kdyby v tom byl jen chtíč (takových holek už bylo), sotva by Hedvice po čtrnácti dnech známosti nabídl, aby se k němu přestěhovala. Co si Mojmír nemohl nepřiznat, bylo tohle: zamiloval se. Zatoužil tu chudou dívku chránit. Toužil jí koupit šaty od Kláry Nademlýnské a vzít ji na červený koberec svého života. Dělalo mu to dobře. Jí pochopitelně také. Naivní touha po ráji činí z ženy snadnou kořist. Viděla jsem to tisíckrát.
 
-  
+</section>
+
+<section>
 
 První měsíce jejich společného bydlení byly – jak jinak – idylické. Ráno společně snídali a navečer se princ už nemohl dočkat, až uslyší Popelčin klíč v zámku. Připadalo mu, že je středobodem jejího života. Zdálo se mu, že neexistuje nic, co by pro Hedviku znamenalo víc. Když jí nečekaně zavolal a pozval ji na premiéru Hřebejkova filmu, zrušila schůzku s kamarádkami. Dávala mu bez rozmýšlení přednost před jógou. Pozorně mu naslouchala. Vymýšlela pro něho překvapení. Kupovala mu drobné dárky. Vařila mu. Oblékala si pouze věci, o kterých věděla, že se mu líbí. Nosila boty na podpatcích. Líčila se! Chodila k holiči! Cha!
 
 Nebyla v tom přirozeně žádná rafinovanost, o nějaké vypočítavosti, či snad dokonce cynismu tu nemůže být ani řeči. Bezpochyby upřímně věřila, že se hezky obléká a líčí kvůli Mojmírovi – ale ve skutečnosti to dělala kvůli mláďatům. Věřte nebo ne, Hedvika dělala jen to, co dělají všechny samičky, když se chtějí zahnízdit. Ano, možná si myslela, že jí jde o Mojmíra, avšak to jediné, co její vaječníky ve skutečnosti zajímalo, byl jeho genofond. K holiči chodila kvůli jeho spermiím. (Tyhle trpké pravdy je samozřejmě nutné mužům zatajit.)
 
-  
+</section>
+
+<section>
 
 Vyhýbali se Hedvika a Mojmír, jako všichni zamilovaní, instinktiv­ně tématům, která by do jejich idyly mohla přinést spory? Ne, tvrdí Mojmír, žádná taková témata prý neexistovala. Mezi jejími a jeho představami o společném životě nebyl údajně žádný rozpor. Hedvika toužila po hodném manželovi, venkovském domečku se zahrádkou a třech zdravých dětech. Tři děti připadaly Mojmírovi moc, ale jinak byl tou vizí okouzlen.
 
@@ -65,13 +73,17 @@ Všimněte si: ani v jedenadvacátém století nás tihle praještěři v krav
 
 Aby bylo jasno, milé sestry: do těchhle opolidí se zamilováváte. Tyhle neandertálce si berete za muže.
 
-  
+</section>
+
+<section>
 
 Na to, co v devadesátých letech následovalo po rozpadu jeho prvního manželství, Mojmír sice naoko pyšně vzpomíná jako na nonstop pánskou jízdu, ale ve skutečnosti byl ze všech těch večírků, pijatik, nevěstinců a vztahů na pár nocí otrávený a unavený. Chtěl žít jinak. Po rozvodu sice neustále prohlašoval, že podruhé se rozhodně ženit nebude, ale při zařizování nového bytu si pořídil hned několik věcí, které jeho rádoby kategorické rozhodnutí žít po zbytek života sám (takhle to říkal přátelům) poněkud zpochybňovaly. To velké dvojlůžko do ložnice mohl snad ještě sám sobě vysvětlovat potřebou pohodlného spaní, avšak nákup horkovzdušné trouby (vezmeme-li v úvahu, že nikdy v životě nic neupekl) a především více než pětimetrové šatní skříně, zabírající celou postranní stěnu rozlehlé předsíně, výmluvně svědčil o Mojmírově nevykořenitelné touze po párovém soužití. Náš malý skautík prostě nechtěl usínat sám... Nerad se, chudáček, probouzí v prázdném bytě... Jak kdysi napsala Gertruda Steinová o Hemingwayovi: _Literatura umělých chlupů na prsou.._. Chápete? Tohle je ta jejich statečnost! Ta jejich mužnost! Navenek bicepsy a tricepsy, vespod deprex a diazepam. Věřte, sestry, že nás potřebují víc, než si myslíme.
 
 Potřebují nás mnohem víc než my je.
 
-  
+</section>
+
+<section>
 
 Když se k němu počátkem listopadu Hedvika na jeho výslovné přání nastěhovala, Mojmír jí polovinu té obrovské skříně vyklidil a podobně se s ní rozdělil i o prádelník v ložnici a poličky v koupelně.
 
@@ -93,7 +105,9 @@ Hedvika už totiž není nešťastná. Už ji není nutno zachraňovat. Už Mojm
 
 Už mu tak pozorně nenaslouchá. Dnes je to Mojmír, kdo potřebuje zachránit.
 
-  
+</section>
+
+<section>
 
 „Hrdina, který si nárokuje trvalý potlesk, žádný hrdina není,“ cituji mu u oběda z jeho oblíbené knihy o mužích (s chutí ji používám proti němu).
 
@@ -109,7 +123,9 @@ Promiňte, Mojmíre, ale nedokážu se nesmát. Takhle dopadají všichni samozv
 
 Ano, trucuje, protože v říjnu roku 2000 byl v Hedvičině hodnotovém žebříčku první, zatímco dneska je desátý. Nedávno sepsal následující _chronologický seznam Hedvičiných zájmů_, který to jasně dokazuje:
 
-  
+</section>
+
+<section>
 
 1\. Dům
 
@@ -131,7 +147,9 @@ Ano, trucuje, protože v říjnu roku 2000 byl v Hedvičině hodnotovém žeb�
 
 10\. Mojmír
 
-  
+</section>
+
+<section>
 
 Cha! Modrovous si připadá odstrčený! Pán tvorstva se cítí ukřivděný! Nutí Hedviku k myšlenkovým saltům, která vydává za racionální uvažování. Pokrytecky poukazuje na Hedvičin občasný shon, stres a vyčerpanost a namlouvá jí, že takový objem práce není při nejlepší vůli v silách jednotlivce. Tendenčně tvrdí, že to, co původně mělo být rozptýlením, příjemným zpestřením její manželské a mateřské všednosti, se stalo každodenní vysilující povinností.
 
@@ -158,3 +176,5 @@ Praští příborem, vstává od stolu a odchází. Po chvíli se vrací, už s
 Mojmír obě dcerky políbí, jako kdyby je měl vidět naposled. Jsme svědky další ochotnické scénky; tentokrát s názvem Útěk z domova... Jako bychom to neznaly: za dva dny je zpátky a bude plakat steskem... Bylo by to legrační, kdyby to nebylo tak smutné. Doslova jsem se zhrozila, když jsem se od Hedviky dozvěděla, že Mojmír jí vážně doporučoval, aby si ze svých aktivit vybrala jednu nebo maximálně dvě a těm se pak věnovala naplno... Hele ho, Modrovouse! Nenabízí ženě skutečnou svobodu, ale iluzi svobody! Můžeš si dělat, co chceš, ale jenom v těchhle pokojích... Do pokoje nahoře nesmíš! Lstivě jí navrhuje, že k životnímu naplnění lze dojít prostřednictvím koníčku... Je otřesné, že i relativně vzdělaný spisovatel počátkem jedenadvacátého století ještě věří, že moderní emancipovaná žena může najít smysl života na hodině aerobiku nebo v dětském dramatickém kroužku...
 
 Ale to se fatálně mýlí.
+
+</section>

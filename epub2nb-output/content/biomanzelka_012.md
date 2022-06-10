@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Felix bydlí sám ve čtyřpokojovém mezonetovém bytě s výhledem na polovinu Smíchova. V omítce domu jsou nad vjezdem do garáží hluboké vrypy. Felix přichází Mojmírovi otevřít a zachytí jeho pohled.
 
 „Soused zapomněl, že má na střeše kola.“
@@ -84,3 +86,5 @@ Přikývne a vypráví dál. Pocit idyly se vrací. Připíjejí si. Usmějí s
 „Dík za pochopení.“
 
 „Kromě té strašlivé baby, samozřejmě.“
+
+</section>
