@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Před Nuselským mostem odbočí Mojmír z magistrály a důvěrně známou cestou jede do svého pražského bytu. Takhle končí všechny vzpoury, kterým chybí vize. I revoluce musí mít plán. Mojmír nemá žádný, jeho takzvaný útěk od rodiny řídí zvyk a pohodlnost.
 
 Byt je relativně uklizený, ale samozřejmě plný dětských stop: hned v předsíni je polovina zelenobílého trupu letadla z lega, zmuchlaná stránka z časopisu Mateřídouška a několik barevných sponek a gumiček do vlasů; na židli v kuchyni leží kabátek od Bářina pyžamka. Mojmíra to dojme. Pochopitelně se mu hned začne stýskat. Možná pražský byt nebyl dobrý nápad, zapochybuje, ale protože si nechce přiznat prohru, předstírá sám před sebou, že je tu báječné ticho a klid a že je tu spokojený (uvědomuje si, že se i tady v Praze často chová, jako by jej ta praštěná baba, která léta okupuje jeho dům, mohla vidět). Zkouší si číst, ale nedokáže se soustředit. Je příliš v zajetí vlastního příběhu, takže není schopen vnímat nějaké fikce. Navíc má hlad; polovina karbanátku z ovesných vloček dospělého člověka nezasytí. Krátce přemýšlí, kde by se dobře najedl. Uvažuje o drahém obědě o několika chodech, kterým by se pomstil rodinnému rozpočtu za všechna ta nesnesitelně zdravá jídla. A za všechny ty dny, kdy si jeho vlastní žena vůbec nevzpomněla, že on, její muž, nic nejedl... Ne, nepatří k těm manželům, kteří si poněkud prehistoricky nárokují jedno, nebo dokonce dvě teplá jídla denně. O tom nemluví. Nevyžaduje ani obědy, ani večeře, natožpak teplé – jenom si přál, aby si jeho žena aspoň uvědomila, že ještě neobědval nebo nevečeřel, chápete? Nejde tu vůbec o jídlo, Mojmír si leccos umí uklohnit sám nebo si zajde do restaurace – jde o to, aby se zeptala. Aby nezapomínala, že existuje. Jde o tu otázku, která je pro Mojmíra – a na tom s dovolením trvá – metaforou Hedvičina zájmu o jeho maličkost.
@@ -22,3 +24,5 @@ Při sprchování si vzpomene na králíka. Dostal ho od výstřední kolegyně 
 Pro Mojmíra byly všechny odpovědi v Hedvičině tváři. V jejích očích. V jejím úsměvu. Stačí se podívat na kteroukoli ze svatebních fotek. Mojmír si obléká župan, vychází z koupelny a otvírá svatební album. Třeba hned tahle: krásná, jakoby trochu plachá dívka v náručí sebejistého muže středních let.
 
 Kde ta sebejistota je? říká si Mojmír.
+
+</section>

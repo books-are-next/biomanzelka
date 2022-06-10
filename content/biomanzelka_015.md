@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 V dlouhém seznamu věcí, které mi Modrovous klade za vinu, zaujímá jedno z předních míst položka váznoucí sex – i tohle je přirozeně křivé obvinění. Ano, občas si s Hedvikou povídáme až do noci, a když mám menses, bývám natolik přecitlivělá, že potřebuju mít někoho blízkého u sebe, ale na druhé straně mám snad dostatek taktu a soudnosti, abych se do jejich intimního života nevměšovala. Mojmír to samozřejmě popírá.
 
 „Když se zkombinuje špatná konstelace luny, menstruace a mykózy mý ženy a perioda duly, na manželskej sex nám zbejvá jedinej den v měsíci,“ líčí Felixovi náš prozaik.
@@ -33,7 +35,9 @@ Dnes Mojmír tvrdí, že právě Hedvičin altruismus je jednou z příčin pos
 
 „Pro dobrou věc – to je naprosto klíčovej slovní obrat,“ huláká na svou ženu. „Všechno, čím naše manželství trpí, děláš takzvaně pro dobrou věc! Pro dobrou věc padesátkrát denně telefonuješ, pro dobrou věc se hroutíš únavou, pro dobrou věc úplně zapomínáš, že existuju!“
 
-  
+</section>
+
+<section>
 
 Po narození Báry věnuje Hedvika veškerou svou lásku, energii i čas oběma dětem, takže Modrovous si připadá odstrčený. Stává se miliontým poraženým v odvěkém utkání oxytocin versus prolaktin (v němž mateřský hormon prolaktin samozřejmě vždycky zvítězí).
 
@@ -41,7 +45,9 @@ Po narození Báry věnuje Hedvika veškerou svou lásku, energii i čas oběma
 
 Prolaktin je v té době Mojmírovým druhým největším nepřítelem (hned po mně); propadne dokonce scestnému přesvědčení, že Hedvika trpí hormonální nerovnováhou a oxytocinu má naprostý nedostatek, takže bude nutné dodávat jí ho injekčně (její gynekolog má naštěstí tolik rozumu, aby mu to u piva rozmluvil).
 
-  
+</section>
+
+<section>
 
 Každý večer Hedvika také dcerky masíruje různými aromatickými olejíčky.
 
@@ -55,7 +61,9 @@ Každý večer Hedvika také dcerky masíruje různými aromatickými olejíčky
 
 A tak dále.
 
-  
+</section>
+
+<section>
 
 Bára stejně jako předtím Sára absolvuje kurz kojeneckého plavání. První lekce probíhají pod dohledem instruktorky doma, později
 
@@ -69,7 +77,9 @@ Mám o ni starost. Vidím strom tam, kde ona vidí jen semínko. Vzrušovat se 
 
 Nechápu, kde bere drzost ženskou a mužskou touhu vůbec srovnávat. Mám divnou předtuchu. Cítím ji v los ovarios. Jsem Matka věků a nic mne už nepřekvapí – ale své obavy si bohužel nechám pro sebe.
 
-  
+</section>
+
+<section>
 
 Než se nadějeme, prvnímu vlčeti jsou čtyři a druhému tři. Mojmírovy původní představy o otcovství se dle očekávání (mého) začínají rozcházet s realitou. Když se Sára a Bára narodily, snil o tom, jak je za pár let naloží do svého volva a vezme je na výlet. Představoval si, že budou způsobně sedět v dětských sedačkách, prohlížet si krajinu a hezky se přitom usmívat. Obě budou pěkně oblečené a učesané. Mojmír je bude spokojeně pozorovat ve zpětném zrcátku a na delších rovinkách se k nim otočí a vesele na ně mrkne. Děvčátka mu čas od času položí nějakou bystrou otázku, která ho rozesměje. Posádky ostatních aut je budou dojatě a závistivě pozorovat.
 
@@ -81,7 +91,9 @@ A tak dále.
 
 Později jeho nicnedělání dostoupí vrcholu: přestane se i vymlouvat. Už ani nediskutuje. Nejenže se nenamáhá uvařit dětem oběd nebo vzít je na celodenní výlet, už se neobtěžuje ani vysvětlováním, proč to nedělá. Vzdá to. Uzavře se do svého pseudouměleckého nitra. Mlčí. Nemluví – píše. Jako jiní muži chodí chytat ryby nebo vyrábějí z balzového dřeva modely letadýlek, Mojmír ve své domácí dílně zhotovuje papírové bestsellery. Jeho život nahradilo hobby. Místo aby se otevřel nezměrnému bohatství a kráse života, věnuje se na patnácti čtverečních metrech literárnímu kutilství. Tvrdí sice, že se ve vyhnanství stroze zařízené pracovny ocitl kvůli mně, ale to vědomě lže (Hedvice, mně i sám sobě). O žádný domov nepřišel, jeho jediným skutečným domovem vždycky byla, je a bude pracovna. Do pracovny by se na celé dny zavíral i tehdy, kdybych tu nebyla – ve mně našel jen vděčnou záminku.
 
-  
+</section>
+
+<section>
 
 Do pracovny se údajně zavírá i proto, že jej stávající podoba domu nanejvýš irituje. Odjakživa jak známo miluje pořádek, přehlednost a čisté linie, ale kdykoli dnes vstane z postele, musí se prý doslova brodit rozházenými hračkami, korálky, zapékaným müsli, homeo­patiky, magnetickými písmenky, foliemi, obaly od biosušenek a proutím na košíky. Nemůže si ani umýt zadek, protože buď jsem v koupelně já, nebo v bidetu schne osm plyšových zvířat, která manželka dovolila dětem vzít do vany. Mojmír s povzdechem přejde do kuchyně, jenže aby se mohl nasnídat a přečíst si noviny, musí ze stolu shrnout odstřižky látek a provázků, barevné gumičky do vlasů, několik špejlí, lepidlo a sádrové odlitky stop zajíce. Ostré šípy všudypřítomného chaosu probodávají srdce estéta. Chichi. Protože výzdobu bytu rezignovaně přenechal manželce (neměl prý sílu bojovat s ní o každý kus stěny či police), jeho pohled nyní čelí svícnům a svíčkám, lucerničkám, hmoždířům, papírovým růžím, sušeným levandulím, achátům a chalcedonům, mušlím a kamínkům z pláží, fotografiím dětí i zvířat a majákům v rámečcích z kůže.
 
@@ -89,7 +101,9 @@ Do pracovny se údajně zavírá i proto, že jej stávající podoba domu nane
 
 Jak se stalo, že se jeho dům (pražský byt na tom není o nic lépe) stal bizarní kombinací školního kabinetu, vily v Provence a Starého bělidla (babička jsem já)? ptá se Mojmír sám sebe. Kde se stala chyba? Jak to mohl dopustit? Neví. Je toho na něj moc. Ani jeho analytické myšlení mu neumožňuje tak složitý problém vyřešit. Copak v tomhle bordelu může člověk přemýšlet?
 
-  
+</section>
+
+<section>
 
 Nebude těm malým tyranům dělat sluhu, prohlašuje. On ne. Nehodlá podlehnout módnímu kultu dítěte. Ano, samozřejmě je miluje, na světě neexistuje nic, co by pro něj bylo důležitější než Bára, Sára a Hedvika (tedy kromě psaní a jeho samotného, dodávám v duchu), a vynasnaží se jim vytvořit ty nejlepší možné podmínky pro život – ale odmítá být ovcí, která se každý den sama podřízne před oltářem Velkého Dítěte... Za rozumnou míru sebeobětování považuje dvě až tři hodiny denně, což je už tak šíleně moc.
 
@@ -128,3 +142,5 @@ Od stále častějších návštěv a společně trávených víkendů je už j
 A tak dále.
 
 A bude hůř.
+
+</section>

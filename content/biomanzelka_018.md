@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 Anesteziolog odchází hned po rozhovoru s Mojmírem, ale spisovatel a Felix zůstanou až do zavírací hodiny. Oba se opijí. Mojmír mimo jiné tančí na pódiu, vesele povzbuzován dvojicí japonských turistů; naštěstí se nesvlékne. Nakonec rusovlasé striptérce (stejně to bude jenom přeliv, říká si) obšírně líčí vzestup a pád svého manželství; Felix si mezitím u stolu zdřímne.
 
 Když vyjdou ven, začíná se rozednívat. Motají se vylidněným centrem města a potom se usadí v zakouřeném nonstopu, kde si objednají becherovku a tonik.
@@ -92,3 +94,5 @@ Když odchází, tutéž písničku si významně broukají i obě recepční.
 I přes clonu opilství si připadá trapně. Náhle se mu zdá, že jeden hlas přibyl. Otočí se: ano, instruktorka zpívá s recepčními. Smějí se.
 
 Ženo, tvé jméno je Zrada, říká si Mojmír.
+
+</section>

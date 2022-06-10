@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Kdo z té sympaticky plaché knihovnice (já bych řekla zbytečně zakřiknuté) čekající na příměstský vláček udělal bezmála nejznámější středočeskou ženskou aktivistku?, ptává se Mojmír svého přítele Felixe. Kdo mu ji zkazil?
 
 Vytáhne deset let staré fotografie z jejich první společné dovolené: objímají se na pláži, v tyrkysovém přílivu, oba usměvaví, opálení... Mojmír i Felix bezpochyby vidí zamilovanou, ba oddanou dívku (nahoře bez), já se dívám na nikým nepoučenou samičku v době páření.
@@ -17,7 +19,9 @@ Felix krčí rameny.
 
 „Řeknu ti to: Já!“
 
-  
+</section>
+
+<section>
 
 Ano, byl to paradoxně on sám, kdo Hedviku zavedl do míst, kde se navždy nakazila _virem mystiky_ (mystickým nazývá náš malý Einstein všechno, co nedokáže pochopit). Byl to Mojmír, kdo oslovil architekta, jehož moderní hrázděné domy se mu líbily – ale copak mohl předvídat, že ty odlehčeně působící, a přitom bytelné dřevostavby jsou postaveny ve stylu feng-šuej nebo že sám architekt je aktivním stoupencem hnutí Hare Krišna? Copak mohl předpokládat, že na tyhle duchovní kraviny (ach, Mistře, jak obdivuji váš smysl pro přesné pojmenování) narazí v architektonickém studiu, to jest na místě, kde člověk právem doufá v důsledně věcné uvažování? Copak Mojmíra mohlo napadnout, že by v debatách o konstrukci domu či optimálním využití prostoru mohl být prostor pro jing a jang a podobné _píčoviny_? Copak mohl tušit, že i v technických výkresech základové desky se mohou skrývat _bakterie iracionality_?
 
@@ -69,7 +73,9 @@ Mojmír odmítá žít v iracionálních zmatcích. Miluje řád a nenávidí 
 
 Když o tom tak přemýšlím, Mojmír vlastně celých těch deset let nedělal nic jiného, než že nutil Hedviku, aby jej následovala na území Řádu. Pokud s ním chce sdílet život, pak jedině tam, sděloval jí (nepřímo) nekompromisně. A než vstoupí, ať laskavě použije rohožku a setře si z podrážek ten duchovní bordel! (Hle, Mistrova představa rovnosti pohlaví!)
 
-  
+</section>
+
+<section>
 
 Po další schůzce je architekt zve na oběd do vegetariánské indické restaurace Govinda (tuhle historku opravdu zbožňuji; vyprávěli mi ji oba, takže znám celý ten křečovitý dialog zpaměti). Mojmír sice ihned pochopí, že k Číně tím jaksi přibude celá Indie, ale ani tváří v tvář stamilionům nových ideologických nepřátel neztrácí sebevědomí.
 
@@ -117,12 +123,16 @@ Listuje kartami (příliš dlouho na to, aby ho Mojmír v duchu neobvinil z ce
 
 „Tak třeba tahle,“ říká architekt a ukáže mu ji.
 
-  
+</section>
+
+<section>
 
 _Neposuzující mysl  
 pozoruje a chápe._
 
-  
+</section>
+
+<section>
 
 Mojmír se domnívá, že ví, proč to tak dlouho trvalo. Zatváří se příslušně sarkasticky. Hedvika je naopak tou myšlenkou okouzlena, a přestože napětí mezi oběma muži její ženské intuici neuniklo, poněkud netakticky se přidá na stranu architekta (a Buddhy).
 
@@ -130,7 +140,9 @@ Mojmír se domnívá, že ví, proč to tak dlouho trvalo. Zatváří se přísl
 
 Její bezelstná tvář i věčnému pochybovači Mojmírovi dokazuje, že mluví pravdu. Architekt se usmívá. Mojmírovi pochopitelně připadá, že samolibě.
 
-  
+</section>
+
+<section>
 
 Následující bohužel nevyhnutelné pracovní schůzky s tím buddhistickým šamanem plánuje Mojmír vždy tak, aby se jich Hedvika nemohla zúčastnit. Muži jak známo žárlí na všechno větší, mozek nevyjímaje.
 
@@ -142,13 +154,17 @@ Další schůzku proto zorganizuje na středeční odpoledne, kdy (jak ví) se H
 
 Mojmír pochopí, že pokud jde o Hedvičiny názory na zdraví, došlo k nezvratným škodám. Uchýlí se k banální výmluvě: tvrdí, že s ní k lékaři nemůže, neboť jde na oběd s Felixem.
 
-  
+</section>
+
+<section>
 
 Dovolte, milé sestry, kratičkou vsuvku o Felixovi. Je to Mojmírův takzvaný nejlepší kámoš. Předpokládám, že víte, o čem mluvím: nejlepší kámoš je pro muže nejvyšší karta, trumf (manželka je sice také nejvyšší karta, ale z jiné hry; jestliže nejlepší kámoš je řekněme žaludské eso, pak manželka je žolík – a kanastu a mariáš najednou hrát nelze). Dva nejlepší kámoše obvykle nerozlučně pojí tyto osudové shody: když přijdou o panictví na stejném večírku, když jsou vyhozeni od maturity ze stejného předmětu, když si oblíbili stejnou značku alkoholu, když si jdou na svatbě vzájemně za svědky nebo když si ve stejný den koupí motorku. Občas bývá nejpevnějším svorníkem jejich vztahu fakt, že oba chodili s toutéž dívkou (aby se nemuseli zabít, rozhodnou se, že budou nejlepší kámoši, povznesení nad primitivní žárlivost). A tak podobně. Celoživotní přátelství Felixe a Mojmíra je založeno (kromě společné gymnaziální minulosti) na trapně přeceňované příslušnosti k vyšší střední třídě, na snobské zálibě v drahých vínech a jednosladových whisky a konečně na primitivním mužském šovinismu, který drze vydávají za světonázor.
 
 (Felix bude též svědčit Mojmírovi na svatbě, ale nepředbíhejme.)
 
-  
+</section>
+
+<section>
 
 Jakmile je Hedvika z doslechu, Mojmír Felixovi zavolá, aby měl v případě potřeby potvrzené alibi (v minulosti už si tuhle službu vzájemně poskytli mnohokrát). Přítel však slyšitelně váhá.
 
@@ -170,32 +186,44 @@ I Felixovi se Hedvika líbí, ale především se považuje za jejího přítel
 
 A tak dále (nakonec si to hoši se smíchem vysvětlí).
 
-  
+</section>
+
+<section>
 
 Možná si kladete otázku, jak mohu znát obsah rozhovorů Mojmíra s Hedvikou nebo jeho telefonát s Felixem? Vysvětlení je prosté: Hedvika má výbornou paměť a intuitivní ženský smysl pro detail – a pokaždé mi všechno převypráví do nejmenších podrobností. Navíc ze svého hostovského pokoje mnohé zaslechnu a díky těm obrovským skleněným oknům i leccos zahlédnu, takže když své informační zdroje zkompletuji, mohu bez přehánění prohlásit, že jsem permanentním přímým svědkem toho nepříliš šťastného manželství. A ten telefonát? Budu k vám upřímná: pokud mi výjimečně nějaká informace či replika unikne, dokážu si ji snadno představit. Takhle to je. Mojmír je totiž až komicky jednoduchý člověk. Jako každý misogyn je předvídatelný. Opravdu nepotřebuji všechny jeho žvásty slyšet, protože je umím odhadnout. Nikdy jsem mimochodem nechápala, proč se kolem spisovatelství dělá takový humbuk. Na spisovatelství není nic těžkého – mně to můžete věřit.
 
-  
+</section>
+
+<section>
 
 Téhož večera v milostném duetu Hedviky a Mojmíra poprvé zazní disharmonický akord. Cha! Mojmír ji zastihne nevysvětlitelně zasmušilou, sotva mu odpoví na pozdrav. Sedí u malé lampičky v obývacím pokoji, na stolku před ní leží dvě meditační karty. Mojmír se shýbne, aby si přečetl text.
 
-  
+</section>
+
+<section>
 
 _Radost, či smutek –  
 ať člověka potká cokoli,  
 kráčí dál nedotčený, odpoutaný._
 
-  
+</section>
+
+<section>
 
 Mojmír se chystá ty kokotiny Gautamy Buddhy s příslušným sarkasmem okomentovat, jenže sdělení druhé karty je poněkud znepokojivé:
 
-  
+</section>
+
+<section>
 
 _Jste jako žlutý list.  
 Poslové smrti jsou nablízku.  
 Budete putovat daleko.  
 Co si vezmete s sebou?_
 
-  
+</section>
+
+<section>
 
 První, co Mojmíra napadne, je, že ten _Mao_ _medicíny_ (po Pekingu a pánvi Wok je Mao třetí – a poslední – čínské slovo, které náš intelektuál zná) Hedvice mylně diagnostikoval nějakou strašlivou chorobu. Podrobí ji necitlivému výslechu, který vydává za starostlivý zájem – a dozví se, že jedinou Hedvičinou zdravotní obtíží je banální svědivá mykóza, kterou do týdne vyléčí Krém rodinného štěstí.
 
@@ -215,7 +243,9 @@ Samička je dojatá. Její oči se zase smějí.
 
 A tak dále.
 
-  
+</section>
+
+<section>
 
 Na poslední (doufá pevně Mojmír) schůzku s architektem tudíž nemůže Hedviku nepřizvat. Výslovně jej však žádá, aby tentokrát laskavě vynechal Východ a držel se spíše Západu.
 
@@ -249,7 +279,9 @@ Architekt na krátký okamžik pošetile uvěří, že by z Mojmíra mohlo popr
 
 Mojmír se (představuji si) směje vlastnímu hloupému vtipu. Hedvika mu pohladí hřbet ruky – což je, jak všechny víme, tradiční způsob, kterým žena vyjadřuje partnerovi nesouhlas.
 
-  
+</section>
+
+<section>
 
 Ještě je však čeká měření patogenních zón, na kterém architekt trvá. Nanejvýš trpělivě Mojmírovi vysvětlí, o co jde – koneckonců už ví, s kým má tu čest (s ignorantem).
 
@@ -299,7 +331,9 @@ Hedvika se k Mojmírovi konečně přitiskne (taky ji to mohlo napadnout dřív
 
 Domluví se na čtvrtek 5. července – jde sice o cyrilometodějský svátek, a tudíž o volný den, ale architekt Mojmíra ujistí, že kluci jej pro slavného spisovatele rádi obětují (spíš jej coby buddhisté neslaví, napadne možná Mojmíra, ale naštěstí si to nechá pro sebe).
 
-  
+</section>
+
+<section>
 
 Dne 5. července roku 2001 se Hedvika poprvé otevřeně vzepře Mojmírově vůli. Mojmír ten slunečný čtvrtek dodnes nazývá Den zrady (když jsem to slyšela poprvé, nevěřila jsem vlastním uším; muži o ženách rádi mluví jako o hysterkách, ale řekněte samy, milé sestry, dopustila by se některá z nás takhle afektovaného patosu?). Počasí se ovšem vyvede: nebe je bez mráčku, fouká příjemný větřík, mezi stébly trávy neslyšně poskakují kobylky. Stavební parcela na samém okraji městečka je překvapivě rozlehlá (ono _překvapivě_ vztahuji k velikosti Mistrova talentu, chichi). Hedvika, Mojmír a architekt sedí na kostkované „piknikové“ dece, kterou Mojmír od nepaměti vozí v autě (vzhledem k jeho známé promiskuitní minulosti jistě chápete, proč to nevinné slovo zpochybňuji uvozovkami; když se seznámil s Hedvikou, měl naštěstí aspoň tolik vkusu a soudnosti, aby nechal všechny ty nechutné fleky vyčistit). Hedvika rozděluje sendviče, zatímco Mojmír z cestovní lednice vyndává láhev růžového vína a dvě sklenice (architekt je abstinent a pije vodu). Bukolická idylka. Jediné, co narušuje Mojmírův pocit letní pohody, je ten mladý, štíhlý, do sněda opálený ezoterik Láďa, který o padesát metrů dál popochází po parcele s napřaženýma rukama, občas se zastaví a oranžovým sprejem označkuje posekanou trávu. Dlouhé vlasy má stažené vyšívanou čelenkou. Nemá virguli ani proutek. Jeho tvář – alespoň podle Mojmíra – neodráží žádné mentální úsilí. Kdyby aspoň mumlal abrakadabra, myslí si Modrovous. Na nebi se objeví letadlo mířící k Praze.
 
@@ -335,7 +369,9 @@ A pak to přijde: Hedvika věnuje Mojmírovi krátký pohled obsahující němo
 
 Chichi!
 
-  
+</section>
+
+<section>
 
 Převažující část Hedvičiny osobnosti si však navzdory Mojmírovým pochmurným vizím i nadále zachovává smysl pro praktičnost – důkazem budiž například to, že nepřestává kupovat ryze komerční časopisy o domech a o nábytku. Netouží po domě z hlíny nebo ze slámy, její představy jsou vcelku tradiční.
 
@@ -348,3 +384,5 @@ Tehdy ho trápí jiný (samozřejmě nanejvýš komický) problém: Hedvika zmí
 Zábavné! Náš univerzitně vzdělaný ptáček vážně věří, že je pro samičku důležitější než hnízdo a vejce! Naivně doufá, že až bude dům hotový, zlepší se to, jenže ono se to přirozeně zhorší: Hedvika sice už tolik nečte časopisy, ale o to víc ji začínají zajímat kachličky do koupelny, záclony a kuchyňské skříňky. Mojmír sice chápe, že všechny ty nové a krásné věci, které v dokončeném domě denně přibývají, dokážou Hedvice udělat větší radost než on, starý a okoukaný Mojmír, ale současně ho jaksi mrzí, že zajímavější než on jsou pro ni i záclony nebo centrální vysavač.
 
 A to ho ještě čeká zahrada.
+
+</section>

@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 Když Hedvika jednoho horkého srpnového večera roku 2006 svému muži váhavě oznámí, že by chtěla v městečku založit Mateřské centrum, Modrovous už onen urážlivý příměr s rybářovou ženou vysloví nahlas.
 
 „Chtělas dělat dulu – a já nebyl proti. Pak jsi chtěla radit kojícím matkám – a já taky souhlasil. Teď chceš Mateřský centrum. Co budeš chtít zejtra?“ ptá se řečnicky.
@@ -53,7 +55,9 @@ Hedvika ho políbí.
 
 Mateřské centrum právě vzniklo.
 
-  
+</section>
+
+<section>
 
 Během ustavující schůze, která se koná v nekuřáckém salonku restaurace U Labutě, se konečně rozprší. Mojmír jásá. Podle předpovědi, kterou včera pozorně sledoval, mělo sice pršet mnohem víc, ale i tenhle drobný deštík naštěstí stačí, aby měl legitimní důvod pro ženu (a tím pádem chtě nechtě i pro mě) přijet autem. Bude tudíž vypadat jako džentlmen, a ještě nenápadně zkontroluje, že se do toho údajně ryze ženského spolku na poslední chvíli neinfiltroval _nějakej nadrženej feminista_. _Nějakej další Vodrážka_... Potřebuje se osobně přesvědčit, že ta slavná síť mateřských center není jen krycí legendou, sofistikovanou celonárodní léčkou, husarským kouskem nevěrných paniček. Mateřská centra jako univerzální cizoložné know how... Modrovousova zvrácená představivost dokáže vyprodukovat dokonce i otázku, zda fotografické kroužky nejsou náhodou jen geniální zástěrkou pro orgie s kamerou... A tak dále. Muž je z principu vždycky tak trochu hlupáček, ale žárlivý muž je s prominutím korunovaný vůl, to opravdu nelze říct jinak.
 
@@ -79,11 +83,15 @@ Mojmír je zaskočený.
 
 Náhle mu to dojde: onen ženský smích v restauraci U Labutě je labutí písní jeho mužské převahy. Všechny ty smějící se ženy jsou Popelčiny nevlastní sestry – které s ní ovšem skvěle vycházejí a které by vůbec nenapadlo soutěžit s ní o prince.
 
-  
+</section>
+
+<section>
 
 O týden později nám starosta v jednom z objektů patřících městu vyčlení dvě volné místnosti. Vyklidíme je a vymalujeme. Položíme koberce a obložíme kuchyňský kout žlutými a oranžovými kachlíčky. Dvakrát jedeme do IKEA a nakoupíme dětský nábytek (zaplatí jej Mojmír), který pak vlastnoručně smontujeme. Po nocích s Hedvikou, Xenií, Darinou a dalšími sestrami sepisujeme žádosti o granty. Modrovous nám s předstíranou ochotou vaří čaj a otvírá víno, ale jakmile se večer nachýlí, začne být z naší přítomnosti nervózní. Okázale zívá. Nervózně přechází kolem. Před půlnocí nám obvykle popřeje dobrou noc a odchází masturbovat.
 
-  
+</section>
+
+<section>
 
 Provoz centra se rychle rozběhne: v září s dětmi vyrábíme ptačí budky a papírové draky. Před Dušičkami vydlabáváme dýně a vaříme z nich polévku. Oslavíme s dětmi halloween. Hned nato obnovíme tradiční podobu svátku sv. Martina: Xenie sežene koně a jezdce v brnění, který pak ve svitu svíček před užaslými dětmi mečem rozpůlí svůj plášť a věnuje ho žebrákovi.
 
@@ -95,7 +103,9 @@ V prosinci dle starého keltského zvyku s dětmi sepíšeme a namalujeme vš
 
 V zimě zorganizujeme karneval, bazárek dětského oblečení a dvě veřejná čtení pro děti. Uspořádáme také přednášku logopedky, přednášku o drogách a přednášku dopravního policisty. Na jaře s Hedvikou vymyslíme projekt Velikonoční tvoření a v létě se zúčastníme akce Za čistou řeku. Hlídací koutek máme otevřený denně a každé odpoledne také běží několik dětských kroužků. Moje duše jásá. Ohřívám si ruce i srdce u toho mohutného ohně, který jsem pomohla v Hedvice zapálit. Mám z ní obrovskou radost. Ještě před pár lety byla zavřená mezi knihami, na které usedal prach; dnes běží svobodně nočním lesem, nozdry zeširoka rozevřené, a za sebou má už celou smečku. Mojmír ji nemůže nikdy dohnat (ani v těch svých drahých adidaskách). Naštěstí poslechla, co jsem jí říkala od začátku: Hledáš-li rádce, nikdy neposlouchej ty, kdo mají malé srdce.
 
-  
+</section>
+
+<section>
 
 Proč by ženy v jedenadvacátém století měly čůrat vsedě?
 
@@ -113,7 +123,9 @@ Takže jsme vzaly čtvrtky, lepidlo a nůžky a každá z nás vyrobila něko
 
 Jen krátkozrací lidé prohlašují, že nonkonformisté jsou prohrou společnosti. Být jiným neznamená stát na okraji. Jsi-li nazývána vzdorovitou, nepoddajnou, vzpurnou či nezkrotnou, jsi na správné cestě. Divoška je nablízku.
 
-  
+</section>
+
+<section>
 
 V tuto chvíli je mi opravdu líto, že tenhle příběh není film; následující scéna je totiž z těch, které si doslova říkají o vizualizaci a rychlý filmový střih.
 
@@ -162,3 +174,5 @@ Mojmír zdrceně odvrací zrak – a beze slova běží dál.
 Když muži stanou tváří v tvář prastarým ženským silám, obvykle se dají na útěk; vše, co z nich uvidíš, jsou paty a vystrašená záda. Také Mojmír prchá pryč, jak nejrychleji může. V běhu pozoruje klášter, který tu stojí už deset století. Deset století tu místní ženy močily vsedě. V jeho očích je nechápavé rozhořčení rasisty, že prezidentem je černoch... Nic z toho, co bylo dřív, už neplatí. Kruh je hranatý. Všechno je ode dneška jinak.
 
 A bude hůř.
+
+</section>

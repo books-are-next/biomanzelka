@@ -3,15 +3,21 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Nejsem jasnovidka, ale jsem ta, která ví. Žiji s vámi, ve vás. Jsem vaše tlustá prabába, vaše matka, dcera i vnučka. Jsem vaše přirozenost, vaše zapomenutá divokost, váš prazákladní ženský instinkt. Je mi padesát pět a je mi dva miliony let. Jsem mladá jako včera narozené vydří mládě. Jsem stará jako hory, jako voda, jako země. Všimly jste si, milé sestry, jak nápadně rády se koupete nebo s jakou chutí se prsty dotýkáte vlhké hlíny na vaší zahradě? To hledáte mě. Můj klid a mou moudrost.
 
 I Hedvika mě hledala.
 
-  
+</section>
+
+<section>
 
 Když se na podzim roku 2002 přestěhovali z Prahy na venkov, Hedvika se o to zablácené prostranství kolem novostavby domu, rozryté koly náklaďáků a pásy bagrů, zprvu téměř nezajímala: Mojmír si sice všiml, že po večerech čte knihy s názvy jako Nová zahrada, ale přímo na zahradě ji ani jednou neviděl (co by tam v listopadu taky dělala). Tušil sice, že až na jaře zahradník a jeho lidé pozemek srovnají, zasadí trávu, květiny, keře a stromy, její zdrženlivý postoj se změní, avšak ve své nekonečné mužské hlouposti si Hedvičin probuzený zájem představoval asi jako procitnutí Šípkové Růženky: otevře oči, třikrát půvabně zamrká – a potom ho vezme za ruku a půjdou si do zahrady přičichnout k rozkvétajícím magnoliím... (Musím se přiznat, že mě spisovatelství začíná čím dál víc bavit.) Jenomže brzký příchod jara probudil v Hedvice doslova sopku.
 
-  
+</section>
+
+<section>
 
 První erupce její vášně pro zahradu zastihnou Mojmíra zcela nepřipraveného. Jednoho dubnového rána vstane – a sotva stihne utéct před rozžhavenou lávou Hedvičiných nápadů, přání a (světe, div se) i požadavků. Ještě si ani nestačí udělat čaj, a ona už výslovně trvá na zahradě bez chemických postřiků. Zatímco Mojmír zaraženě snídá, Hedvika překotně mluví o jiném, novém typu zahrady. O zahradě, která bude v souladu s přírodou (oba shodně tvrdí, že slovo biozahrada tenkrát ještě nepadlo, to přišlo až později). Mojmír rozespale poznamená, že si umí představit elektrárnu, která není v souladu s přírodou, nebo spalovnu odpadu, která není v souladu s přírodou – ale ne zahradu; popravdě řečeno prý vlastně neví, proč by jakákoli zahrada měla být s přírodou v rozporu. Hedvika mu obratem vysvětlí jeho školácký omyl: viděl snad někde v přírodě ty absolutně rovné řady tújí, které lemují ploty většiny českých zahrad? Nebo hubí snad příroda bělásky, aby housenky nesežraly zeleninu? Zbavuje se sedmikrásek a pampelišek v trávě? Seká snad příroda dvakrát týdně trávník, takže v něm zničí veškerý život? Zakládá příroda trávníky doslova od plotu k plotu, takže chudák ježeček se pak nemůže nikam schovat? Používá příroda herbicidy, insekticidy a fungicidy, a zabíjí tak každý den miliardy nevinných broučků?
 
@@ -35,7 +41,9 @@ Dnes už to ví.
 
 (Ale to předbíhám.)
 
-  
+</section>
+
+<section>
 
 Od toho dne každý volný prostor v domě okupují desítky výstřižků z časopisů o zahradách, nákresy okrasných jezírek, barevné plánky rosarií, zeleninových záhonků a ovocných sadů. Hedvika odloží sukně, značkové halenky a lodičky do skříně, oblékne si staré tepláky, obuje holínky, nasadí si slamák (sluší jí) a vyjde na zahradu, kterou – obrazně řečeno – až do zimy neopustí.
 
@@ -77,7 +85,9 @@ Navrhuje mluvit o rajčatech a bazalce (s olivovým olejem a mozza­relou), r
 
 A tak dále.
 
-  
+</section>
+
+<section>
 
 Zahradník, který podle Mojmírovy paranoidní domněnky trpí stařeckou satyriázou a který se údajně do jeho ženy zamiloval, Hedvice věnuje dvě knihy: velkou fotografickou publikaci Moudrost stromů a předvídatelný titul Bylinky pro děti a maminky.
 
@@ -95,7 +105,9 @@ Ano, tenkrát je Zahradník v Mojmírových očích hlavní viník (brzy bude o
 
 „Copak nemůže posekat trávník, vostříhat růže a vypadnout?“ vzteká se. „Musí ještě vymejvat mý ženě mozek?“
 
-  
+</section>
+
+<section>
 
 Druhá kniha není v Mojmírových očích o nic lepší. Chytí se několika citátů vytržených z kontextu a s jejich pomocí autorku (a nepřímo i Hedviku) zesměšňuje.
 
@@ -119,7 +131,9 @@ Hedvika se s Mojmírem dál nepře, neboť intuitivně cítí, že to nemá smy
 
 Hedvika se vědoucně usmívá. Správně tuší, že Mojmírův mani­festační odpor k léčivým rostlinám vydrží sotva pár měsíců a poté z něj zůstane jen čím dál tišší remcání – a že nakonec Mojmír s tajným zahanbením přijme každý bylinný čaj či obklad, který mu připraví, třezalku nevyjímaje.
 
-  
+</section>
+
+<section>
 
 Zahradník se samozřejmě řídí všeobecně uznávanými poznatky o vlivu fází měsíce na zahradu a člověka vůbec.
 
@@ -163,7 +177,9 @@ Představa líného, to jest personifikovaného rajčete očividně přesahuje l
 
 Jeho žena se prokazatelně zbláznila, pomyslí si. Opatrně se rozhlíží po okolních zahradách. Bojí se, zda je sousedi neslyšeli.
 
-  
+</section>
+
+<section>
 
 Ale rajčata mohou být Mojmírovi koneckonců ukradená. Horší je, že podobně lunárně začne jeho žena údajně pojímat i sex.
 
@@ -199,7 +215,9 @@ Mojmír se rozhlédne po kavárně a ztiší hlas.
 
 Felix pozoruje Mojmíra starostlivým pohledem.
 
-  
+</section>
+
+<section>
 
 Hedvičina probuzená zahradnická vášeň má ovšem i důsledky zcela praktické: věci jako halenky, lodičky nebo kabelky jí rázem přestanou připadat důležité (a to zcela bez ohledu na fázi měsíce).
 
@@ -235,7 +253,9 @@ Uhádnete, co si koupila?
 
 Řeknu vám to: stan Big Family, pět spacích pytlů a pět karimatek (moc mě potěšilo, že myslela i na mě; ještě téhož odpoledne jsme stan na zahradě postavily, oblékly sebe i děti do tepláků a přespaly v něm. Mojmír přirozeně odmítl.).
 
-  
+</section>
+
+<section>
 
 Ale dvakrát třikrát ročně se ten přestárlý chlapec milující pohádkové příběhy přece jen dočká: jeho žena se na jedinou noc změní v Popelku. Když už nemůže vydržet Mojmírovo ustavičné protivné naléhání, uvolí se jej doprovodit na tu či onu divadelní nebo filmovou premiéru, popřípadě na nějakou snobskou předvánoční party. Poprosí mne o hlídání dětí, odjede s Mojmírem do Prahy a v někdejším hnízdečku jejich lásky si oblékne nové koktejlky za devět tisíc (které jí Mojmírovými slovy _fantasticky sluší_, a přitom je měla na sobě sotva jednou). Po půlroce použije rtěnku a řasenku a sama je příjemně udivena svou polozapomenutou podobou. Malý diamant, který právě vysvobodila z mnohaměsíčního zajetí sametové krabičky, odráží světelné paprsky se servilní ochotou psíka, kterého konečně vzali na procházku. Vyjde z koupelny. V předsíni stojí vůně Calvin Klein v obleku Hugo Boss. Modrovous. Jeho kočár je opentlený.
 
@@ -253,7 +273,9 @@ Přívěsek s diamantem jí pomůže zapnout. Stále si ji prohlíží. Okouzle
 
 A tak dále.
 
-  
+</section>
+
+<section>
 
 V Popelku se naštěstí mění jen výjimečně a po návratu z Prahy se navíc všechno rychle vrátí do starých kolejí. Hedvika se odlíčí, sváže si vlasy šátkem, natáhne si staré tepláky a větrovku a jde hrabat listí nebo stříhat vřes.
 
@@ -263,10 +285,14 @@ Co bude Hedvika dělat celou zimu, až zahradu pokryje sníh? Děti, přece.
 
 (Ale ještě předtím se samozřejmě musejí vzít.)
 
-  
+</section>
+
+<section>
 
 Jste zklamané, milé sestry? Očekávaly jste pohádkovou svatební scénu? Předem jste jihly? Těšily jste se na pětipatrový dort? Byly jste zvědavé, co měla nevěsta na sobě? Pouzdrové šaty. Stačí? Jestli měla závojíček? Myslíte tu otázku vážně? Přestaňte. Kdykoli si prohlížím jejich svatební album, chce se mi zakrýt si oči tlapami a výt. Žiju s nimi sedm let. Vidím jaksi závojíček odhrnutý. Každý den se dívám, co z toho obřadu vzešlo.
 
 Všechny nešťastné ženy měly kdysi svatbu. I já.
 
 Odmítám těm pomalým popravám dělat reklamu.
+
+</section>

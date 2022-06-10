@@ -3,6 +3,8 @@ title: XIX
 contentType: prose
 ---
 
+<section>
+
 Sára a ostatní děti _centralizovaných matek_, jak ženy z Mateřského centra nazývá Modrovous, pomalu dorůstají do školního věku a na debaty o fotografiích zmrzlých vodních krystalů náhle není čas. Je třeba začít mluvit o tom, do jaké školy půjdou – jenže žádná škola v okolí neodpovídá Hedvičiným vysokým nárokům.
 
 „Fanatický nadšení pro biopotraviny a vlastnoručně šitý vložky vystřídalo fanatický nadšení pro domácí vyučování, pochopitelně spojený s fanatickou kritikou státního školství,“ stěžuje si Mojmír.
@@ -25,7 +27,9 @@ Na jeho urážky jsem zvyklá.
 
 Bez komentáře.
 
-  
+</section>
+
+<section>
 
 Domácí vyučování se navzdory jeho lamentacím úspěšně rozběhne. Mojmír si náhle nevzpomíná, proč se vlastně nad Bioklubem tak rozčiloval. Čůrání vstoje mu s odstupem času začíná připadat neškodné. Bioklub je koneckonců jenom ve středu, ale šílenství zvané domácí vyučování se děje denně!
 
@@ -39,7 +43,9 @@ Svatava, Hedvika i Xenie jsou přesvědčeny, že než se dítě začne učit o
 
 Inu, neví.
 
-  
+</section>
+
+<section>
 
 Z jednotlivých místností Mistrova domu se postupně stávají improvizované školní třídy. Jsou tu nástěnné mapy, globusy, slovníky, magnetická písmenka, horniny, zarámované obrazy velryb, delfínů a dalších kytovců, počítadlo, lidská kostra, tabule a křídy. Snad každý den přibude něco dalšího: sušené květiny, siluety křídel dravých ptáků, státní symboly, jeskynní kresba mamuta, rybí šupiny. Neuplyne týden, aby Xenie, Svatava nebo Hedvika vlastnoručně nevyrobily další názornou pomůcku: kurz první pomoci ve formě stolní hry, zábavný kviz o ohrožených zvířatech nebo modely planet sluneční soustavy v měřítku odpovídajícím jejich skutečné velikosti.
 
@@ -57,7 +63,9 @@ Proč se tohle všechno nemůže odehrávat ve škole? ptá se. Proč se školou
 
 A tak dále.
 
-  
+</section>
+
+<section>
 
 Touží odjet někam, kde nebude pětkrát denně zakopávat o papírový Saturn. Je únor, normální lidé jezdí lyžovat – ale pan spisovatel pojede k moři. Do exotického ráje... Dříve si ráj představoval jinak, ale dnes je to pro Mojmíra především místo, kde člověk nenaráží na žádné vyučovací pomůcky.
 
@@ -71,7 +79,9 @@ Prohlíží její zavazadla. Jako zuřivý celník hledající heroin zkoumá, z
 
 Hedvika jeho nařízení dodržuje. Dovolená se vydaří. Jejich luxusní apartmá denně uklízí domorodá posluhovačka: po podlaze ani po stolech se nic nepovaluje. Na stěnách nevisí nástěnky. A tak dále. Mojmír září. Mluví o regenerační schopnosti lásky...
 
-  
+</section>
+
+<section>
 
 Na poslední večer zařídí překvapení: romantickou večeři pod hvězdami (děti jim pohlídá Mojmírova dcera z prvního manželství, kterou vzali s sebou). Hedvika si oblékne své nejlepší letní šaty. Na její opálené šíji svítí diamant, který dostala k výročí svatby. Mojmír – jak jinak – má na sobě košili od Armaniho.
 
@@ -131,7 +141,9 @@ Nazítří odlétají zpět do zmrzlých Čech (cestou na letiště vidí Hedvik
 
 Ano, v aktuálním manželčině TOP TEN už je devátý, hned za domácím vyučováním. Už i trilobiti a přesličky zajímají jeho ženu víc než on. A já se jí vůbec nedivím.
 
-  
+</section>
+
+<section>
 
 První dubnový víkend je dostatečně slunečný a teplý, takže spisovatel vyleze ze své nory na denní světlo; posadí se na terasu a pozoruje nás. Právě s Hedvikou, Svatavou a Xenií natahujeme po zahradě padesátimetrové pásmo, abychom dětem co nejnázorněji předvedly, jak velcí byli dinosaurus, brontosaurus a tyranosaurus. Otevře si láhev vína, ale nám nenalije. Možná si užívá chvilkovou iluzi návratu patriarchátu: on chlastá, my pracujeme. Určitě nám ale závidí pedagogické nadšení, všechen ten elán, kterého se mu nedostává.
 
@@ -180,3 +192,5 @@ Mojmír mě pozoruje.
 „Skutečně? Neříkejte!“
 
 „Nechápu, že mi to došlo až teď. To vy jste ten, kdo zabíjí.“
+
+</section>

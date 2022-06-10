@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Lída je rozhlasová redaktorka; na starost má vzdělávací pořady o zdravém životním prostředí. Denně dojíždí do Prahy, takže jí mnoho volného času nezbývá, a proto jej věnuje výlučně tomu, co považuje za podstatné: ženskému vysvobození z područí mužů. Je to statečná vlčí bojovnice, která zasluhuje náš obdiv. Její životní historie patří do kategorie těch, které my contadoras nazýváme temblón – mrazivý příběh.
 
 Lída už v mládí poznala svou tvůrčí sílu. Uvědomovala si, jak tvořivá energie proudí územím její duše a hledá přirozené štěrbinky, arroyos, a jak se celé její tělo stává povodím tvořivosti. Během vysokoškolských studií zasedala ve studentském výboru, zorganizovala několik protestních mítinků, podepsala desítky petic, pomáhala v Praze uspořádat první Dny bez aut a ještě jí zbyla energie, aby hrála závodně volejbal, propagovala projekt Tento měsíc menstruuji a založila útulek pro poraněné ptáky.
@@ -19,7 +21,9 @@ Lída pochopila, že řeka jejího tvůrčího život byla znečištěna. Spojil
 
 Jako vždy se mýlí. Temblón možná na první poslech pobaví, ale jeho pravým účelem je, aby se posluchač vážně zamyslel a začal rozjímat. Je lékem, neboť obsahuje zázračné prostředky pro znovunabytí ztracené psychické síly.
 
-  
+</section>
+
+<section>
 
 Lída pod hlavičkou Hedvičina Mateřského centra založí Bioklub.
 
@@ -29,7 +33,9 @@ Ano, už je osmý. Ještě loni byl sedmý, ale letos ho nečekaně porazil prá
 
 „Už i biosvačinkám věnuješ víc času než mně!“ vyčítá Hedvice.
 
-  
+</section>
+
+<section>
 
 Biosvačinky připravují Hedvika s Lídou pro děti v Mateřském centru. Jsou to vlastně obyčejné svačiny, například rohlík s máslem a se sýrem a jablko, jenže jsou v bio kvalitě (a rohlík musí být celozrnný a jablko samozřejmě české, a ne třeba španělské). Biosvačinky dělají
 
@@ -47,7 +53,9 @@ Je pobouřen, že se jeho manželka dvakrát týdně dobrovolně schází s oso
 
 „Ne. To je skutečnost.“
 
-  
+</section>
+
+<section>
 
 Když Mojmír zjistí, že příručku o ekologické péči o domácnost a osobní hygienu, kterou Hedvice zapůjčila Lída, vydalo nakladatelství Revolver Revue, to hnízdo intelektuálního snobismu, jeho nevěřícný hněv ještě vzroste.
 
@@ -125,7 +133,9 @@ Mojmíra napadne další stupidní vtip; poznám to podle toho, že jeho dětins
 
 A tak dále.
 
-  
+</section>
+
+<section>
 
 Jsem contadora, vypravěčka. Nehodlám předstírat, že dokážu lidem vidět do snů – avšak Mistrovy sny jsou tak povrchní a jednoduché (skoro bych řekla infantilní), že každý trochu šikovnější senzibil si je snadno „stáhne“ a přečte. Vysvětlím vám to na příkladu: Mojmír je stejně naivní jako člověk, který coby počítačové heslo nebo PIN používá datum svého narození; jeho sny jsou stejně lehce rozklíčovatelné. Někdy dokonce stačí pozorovat, co dělá a říká přes den – a přesně víte, co se mu zdá v noci.
 
@@ -136,3 +146,5 @@ Tenkrát se na něj totiž Hedvika neustále usmívala a pozorně naslouchala v
 A tak dále.
 
 „Miluju tě, lásko!“ říkává Mojmír v těch snech Hedvice. A potom se pokaždé probudí.
+
+</section>

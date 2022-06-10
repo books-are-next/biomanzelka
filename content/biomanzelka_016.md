@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 „Tak co, doktore, ještě se vám nestejská?“
 
 Mojmír se k lékařům odjakživa chová velmi zdvořile, ale před manželem duly si nebere žádné servítky. Ta ženská, která sedm let okupuje jeho dům, je koneckonců dosud doktorova zákonná manželka, říká si. Šedesátiletý anesteziolog se zatváří ublíženě.
@@ -128,3 +130,5 @@ Anesteziolog si rozpačitě odkašle.
 Doktor se krátce zasměje, jenže Mojmírovi to k smíchu nepřipadá. Ani trochu. Co je legračního na tom, že jeho žena je dnes někdo úplně jiný než ta dívka, kterou před devíti lety požádal o ruku? Není to spíš děsivé? Tuhle novou, emancipovanou ženu by si patrně nevzal. Nejhorší ovšem je, vysvětluje zapáleně doktorovi, že bohužel i onu současnou, jaksi nevyžádanou podobu Hedviky stále miluje.
 
 „Tak o ni bojujte,“ nabádá jej doktor. „Než bude pozdě. Neudělejte stejnou chybu jako já.“
+
+</section>
