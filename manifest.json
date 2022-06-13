@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "viewegh-biomanzelka-b4cc625",
-  "revision": "b4cc625",
+  "identifier": "viewegh-biomanzelka-1a803a3",
+  "revision": "1a803a3",
   "readingOrder": [
     "promo.html",
     "biomanzelka_007.html",
@@ -37,8 +37,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Mon Jun 13 2022 21:30:54 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655155854974
+    "date": "Mon Jun 13 2022 21:52:24 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655157144349
   },
   "documents": [
     {
