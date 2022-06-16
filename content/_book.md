@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2473-3
+  contentType: prose
 readingOrder:
   - promo.html
   - biomanzelka_007.html
