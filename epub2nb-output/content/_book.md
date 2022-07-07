@@ -38,7 +38,7 @@ readingOrder:
   - biomanzelka_026.html
   - biomanzelka_027.html
   - biomanzelka_028.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
